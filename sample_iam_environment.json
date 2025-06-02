@@ -1,0 +1,268 @@
+{
+  "users": {
+    "user_001": {
+      "user_id": "user_001",
+      "username": "john.admin",
+      "email": "john@company.com",
+      "department": "IT",
+      "manager_id": null,
+      "roles": [
+        "admin"
+      ],
+      "status": "active",
+      "created_date": "2025-06-02T12:23:25.297975",
+      "last_login": null,
+      "password_last_changed": "2025-06-02T12:23:25.297975",
+      "failed_login_attempts": 0,
+      "is_service_account": false,
+      "has_weak_password": false,
+      "account_never_used": false,
+      "excessive_permissions": false
+    },
+    "user_002": {
+      "user_id": "user_002",
+      "username": "sarah.hr",
+      "email": "sarah@company.com",
+      "department": "HR",
+      "manager_id": "user_001",
+      "roles": [
+        "hr_manager"
+      ],
+      "status": "active",
+      "created_date": "2025-06-02T12:23:25.297975",
+      "last_login": null,
+      "password_last_changed": "2025-06-02T12:23:25.297975",
+      "failed_login_attempts": 0,
+      "is_service_account": false,
+      "has_weak_password": false,
+      "account_never_used": false,
+      "excessive_permissions": false
+    },
+    "user_003": {
+      "user_id": "user_003",
+      "username": "mike.dev",
+      "email": "mike@company.com",
+      "department": "Engineering",
+      "manager_id": "user_001",
+      "roles": [
+        "developer"
+      ],
+      "status": "active",
+      "created_date": "2025-06-02T12:23:25.297975",
+      "last_login": null,
+      "password_last_changed": "2025-06-02T12:23:25.297975",
+      "failed_login_attempts": 0,
+      "is_service_account": false,
+      "has_weak_password": false,
+      "account_never_used": false,
+      "excessive_permissions": false
+    },
+    "user_004": {
+      "user_id": "user_004",
+      "username": "temp.contractor",
+      "email": "temp@contractor.com",
+      "department": "External",
+      "manager_id": null,
+      "roles": [
+        "contractor"
+      ],
+      "status": "active",
+      "created_date": "2025-06-02T12:23:25.297975",
+      "last_login": null,
+      "password_last_changed": "2025-06-02T12:23:25.297975",
+      "failed_login_attempts": 0,
+      "is_service_account": false,
+      "has_weak_password": true,
+      "account_never_used": false,
+      "excessive_permissions": false
+    },
+    "user_005": {
+      "user_id": "user_005",
+      "username": "old.employee",
+      "email": "old@company.com",
+      "department": "Finance",
+      "manager_id": null,
+      "roles": [
+        "hr_manager",
+        "developer"
+      ],
+      "status": "inactive",
+      "created_date": "2025-06-02T12:23:25.297975",
+      "last_login": null,
+      "password_last_changed": "2025-06-02T12:23:25.297975",
+      "failed_login_attempts": 0,
+      "is_service_account": false,
+      "has_weak_password": false,
+      "account_never_used": true,
+      "excessive_permissions": false
+    },
+    "user_006": {
+      "user_id": "user_006",
+      "username": "service.account",
+      "email": "service@company.com",
+      "department": "System",
+      "manager_id": null,
+      "roles": [
+        "admin"
+      ],
+      "status": "active",
+      "created_date": "2025-06-02T12:23:25.297975",
+      "last_login": null,
+      "password_last_changed": "2025-06-02T12:23:25.297975",
+      "failed_login_attempts": 0,
+      "is_service_account": true,
+      "has_weak_password": false,
+      "account_never_used": false,
+      "excessive_permissions": true
+    }
+  },
+  "roles": {
+    "admin": {
+      "role_id": "admin",
+      "name": "System Administrator",
+      "description": "Full system access",
+      "permissions": [
+        {
+          "resource_id": "db_hr",
+          "resource_type": "database",
+          "access_level": "admin",
+          "conditions": {}
+        },
+        {
+          "resource_id": "db_finance",
+          "resource_type": "database",
+          "access_level": "admin",
+          "conditions": {}
+        },
+        {
+          "resource_id": "config_system",
+          "resource_type": "system_config",
+          "access_level": "admin",
+          "conditions": {}
+        }
+      ],
+      "parent_roles": [],
+      "is_privileged": true,
+      "created_date": "2025-06-02T12:23:25.297975",
+      "last_modified": "2025-06-02T12:23:25.297975"
+    },
+    "hr_manager": {
+      "role_id": "hr_manager",
+      "name": "HR Manager",
+      "description": "HR department access",
+      "permissions": [
+        {
+          "resource_id": "db_hr",
+          "resource_type": "database",
+          "access_level": "write",
+          "conditions": {}
+        },
+        {
+          "resource_id": "file_payroll",
+          "resource_type": "file_system",
+          "access_level": "read",
+          "conditions": {}
+        }
+      ],
+      "parent_roles": [],
+      "is_privileged": false,
+      "created_date": "2025-06-02T12:23:25.297975",
+      "last_modified": "2025-06-02T12:23:25.297975"
+    },
+    "developer": {
+      "role_id": "developer",
+      "name": "Software Developer",
+      "description": "Development access",
+      "permissions": [
+        {
+          "resource_id": "api_user_mgmt",
+          "resource_type": "api_endpoint",
+          "access_level": "write",
+          "conditions": {}
+        },
+        {
+          "resource_id": "db_hr",
+          "resource_type": "database",
+          "access_level": "read",
+          "conditions": {}
+        }
+      ],
+      "parent_roles": [],
+      "is_privileged": false,
+      "created_date": "2025-06-02T12:23:25.297975",
+      "last_modified": "2025-06-02T12:23:25.297975"
+    },
+    "contractor": {
+      "role_id": "contractor",
+      "name": "External Contractor",
+      "description": "Temporary access",
+      "permissions": [
+        {
+          "resource_id": "db_hr",
+          "resource_type": "database",
+          "access_level": "read",
+          "conditions": {}
+        },
+        {
+          "resource_id": "db_finance",
+          "resource_type": "database",
+          "access_level": "read",
+          "conditions": {}
+        },
+        {
+          "resource_id": "file_payroll",
+          "resource_type": "file_system",
+          "access_level": "read",
+          "conditions": {}
+        }
+      ],
+      "parent_roles": [],
+      "is_privileged": false,
+      "created_date": "2025-06-02T12:23:25.297975",
+      "last_modified": "2025-06-02T12:23:25.297975"
+    }
+  },
+  "resources": {
+    "db_hr": {
+      "resource_id": "db_hr",
+      "name": "HR Database",
+      "resource_type": "database",
+      "sensitivity_level": "confidential",
+      "owner_id": "admin",
+      "location": "/db/hr"
+    },
+    "db_finance": {
+      "resource_id": "db_finance",
+      "name": "Finance Database",
+      "resource_type": "database",
+      "sensitivity_level": "restricted",
+      "owner_id": "admin",
+      "location": "/db/finance"
+    },
+    "file_payroll": {
+      "resource_id": "file_payroll",
+      "name": "Payroll Files",
+      "resource_type": "file_system",
+      "sensitivity_level": "restricted",
+      "owner_id": "hr_manager",
+      "location": "/files/payroll"
+    },
+    "api_user_mgmt": {
+      "resource_id": "api_user_mgmt",
+      "name": "User Management API",
+      "resource_type": "api_endpoint",
+      "sensitivity_level": "internal",
+      "owner_id": "dev_lead",
+      "location": "/api/users"
+    },
+    "config_system": {
+      "resource_id": "config_system",
+      "name": "System Configuration",
+      "resource_type": "system_config",
+      "sensitivity_level": "restricted",
+      "owner_id": "admin",
+      "location": "/etc/system"
+    }
+  },
+  "access_logs": []
+}
