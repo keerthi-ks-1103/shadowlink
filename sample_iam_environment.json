@@ -10,9 +10,9 @@
         "admin"
       ],
       "status": "active",
-      "created_date": "2025-06-02T12:23:25.297975",
+      "created_date": "2025-06-04T14:37:15.792113",
       "last_login": null,
-      "password_last_changed": "2025-06-02T12:23:25.297975",
+      "password_last_changed": "2025-06-04T14:37:15.792113",
       "failed_login_attempts": 0,
       "is_service_account": false,
       "has_weak_password": false,
@@ -29,9 +29,9 @@
         "hr_manager"
       ],
       "status": "active",
-      "created_date": "2025-06-02T12:23:25.297975",
+      "created_date": "2025-06-04T14:37:15.792113",
       "last_login": null,
-      "password_last_changed": "2025-06-02T12:23:25.297975",
+      "password_last_changed": "2025-06-04T14:37:15.792113",
       "failed_login_attempts": 0,
       "is_service_account": false,
       "has_weak_password": false,
@@ -48,9 +48,9 @@
         "developer"
       ],
       "status": "active",
-      "created_date": "2025-06-02T12:23:25.297975",
+      "created_date": "2025-06-04T14:37:15.792113",
       "last_login": null,
-      "password_last_changed": "2025-06-02T12:23:25.297975",
+      "password_last_changed": "2025-06-04T14:37:15.792113",
       "failed_login_attempts": 0,
       "is_service_account": false,
       "has_weak_password": false,
@@ -67,9 +67,9 @@
         "contractor"
       ],
       "status": "active",
-      "created_date": "2025-06-02T12:23:25.297975",
+      "created_date": "2025-06-04T14:37:15.792113",
       "last_login": null,
-      "password_last_changed": "2025-06-02T12:23:25.297975",
+      "password_last_changed": "2025-06-04T14:37:15.792113",
       "failed_login_attempts": 0,
       "is_service_account": false,
       "has_weak_password": true,
@@ -87,9 +87,9 @@
         "developer"
       ],
       "status": "inactive",
-      "created_date": "2025-06-02T12:23:25.297975",
+      "created_date": "2025-06-04T14:37:15.792113",
       "last_login": null,
-      "password_last_changed": "2025-06-02T12:23:25.297975",
+      "password_last_changed": "2025-06-04T14:37:15.792113",
       "failed_login_attempts": 0,
       "is_service_account": false,
       "has_weak_password": false,
@@ -106,9 +106,9 @@
         "admin"
       ],
       "status": "active",
-      "created_date": "2025-06-02T12:23:25.297975",
+      "created_date": "2025-06-04T14:37:15.792113",
       "last_login": null,
-      "password_last_changed": "2025-06-02T12:23:25.297975",
+      "password_last_changed": "2025-06-04T14:37:15.792113",
       "failed_login_attempts": 0,
       "is_service_account": true,
       "has_weak_password": false,
@@ -143,8 +143,8 @@
       ],
       "parent_roles": [],
       "is_privileged": true,
-      "created_date": "2025-06-02T12:23:25.297975",
-      "last_modified": "2025-06-02T12:23:25.297975"
+      "created_date": "2025-06-04T14:37:15.792113",
+      "last_modified": "2025-06-04T14:37:15.792113"
     },
     "hr_manager": {
       "role_id": "hr_manager",
@@ -166,8 +166,8 @@
       ],
       "parent_roles": [],
       "is_privileged": false,
-      "created_date": "2025-06-02T12:23:25.297975",
-      "last_modified": "2025-06-02T12:23:25.297975"
+      "created_date": "2025-06-04T14:37:15.792113",
+      "last_modified": "2025-06-04T14:37:15.792113"
     },
     "developer": {
       "role_id": "developer",
@@ -189,8 +189,8 @@
       ],
       "parent_roles": [],
       "is_privileged": false,
-      "created_date": "2025-06-02T12:23:25.297975",
-      "last_modified": "2025-06-02T12:23:25.297975"
+      "created_date": "2025-06-04T14:37:15.792113",
+      "last_modified": "2025-06-04T14:37:15.792113"
     },
     "contractor": {
       "role_id": "contractor",
@@ -218,8 +218,8 @@
       ],
       "parent_roles": [],
       "is_privileged": false,
-      "created_date": "2025-06-02T12:23:25.297975",
-      "last_modified": "2025-06-02T12:23:25.297975"
+      "created_date": "2025-06-04T14:37:15.792113",
+      "last_modified": "2025-06-04T14:37:15.792113"
     }
   },
   "resources": {

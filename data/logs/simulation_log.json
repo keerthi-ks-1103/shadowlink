@@ -1,0 +1,4732 @@
+{
+  "simulations": [
+    {
+      "simulation_id": "20250604_143437",
+      "timestamp": "2025-06-04T14:34:37.689644",
+      "target_users": [],
+      "attacks_executed": [],
+      "summary": {
+        "total_attacks": 0,
+        "successful_attacks": 0,
+        "failed_attacks": 0,
+        "compromised_users": [],
+        "attack_types": {}
+      }
+    },
+    {
+      "simulation_id": "20250604_143537",
+      "timestamp": "2025-06-04T14:35:37.851078",
+      "target_users": [],
+      "attacks_executed": [],
+      "summary": {
+        "total_attacks": 0,
+        "successful_attacks": 0,
+        "failed_attacks": 0,
+        "compromised_users": [],
+        "attack_types": {}
+      }
+    },
+    {
+      "simulation_id": "20250604_144459",
+      "timestamp": "2025-06-04T14:44:59.105536",
+      "target_users": [
+        "user_001",
+        "user_002",
+        "user_003",
+        "user_004",
+        "user_005",
+        "user_006",
+        "user_007",
+        "user_008",
+        "user_009",
+        "user_010",
+        "user_011",
+        "user_012",
+        "user_013",
+        "user_014",
+        "user_015",
+        "user_016",
+        "user_017",
+        "user_018",
+        "user_019",
+        "user_020",
+        "user_021",
+        "user_022",
+        "user_023",
+        "user_024",
+        "user_025",
+        "user_026",
+        "user_027",
+        "user_028",
+        "user_029",
+        "user_030"
+      ],
+      "attacks_executed": [
+        {
+          "user": "user_001",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T14:44:59.105536"
+        },
+        {
+          "user": "user_001",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T14:44:59.105536"
+        },
+        {
+          "user": "user_002",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T14:44:59.106540"
+        },
+        {
+          "user": "user_002",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T14:44:59.106540"
+        },
+        {
+          "user": "user_003",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T14:44:59.107536"
+        },
+        {
+          "user": "user_003",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T14:44:59.107536"
+        },
+        {
+          "user": "user_004",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T14:44:59.107536"
+        },
+        {
+          "user": "user_004",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T14:44:59.108536"
+        },
+        {
+          "user": "user_005",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T14:44:59.108536"
+        },
+        {
+          "user": "user_005",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T14:44:59.108536"
+        },
+        {
+          "user": "user_006",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T14:44:59.109535"
+        },
+        {
+          "user": "user_006",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T14:44:59.109535"
+        },
+        {
+          "user": "user_007",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T14:44:59.109535"
+        },
+        {
+          "user": "user_007",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T14:44:59.110536"
+        },
+        {
+          "user": "user_008",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T14:44:59.110536"
+        },
+        {
+          "user": "user_008",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T14:44:59.110536"
+        },
+        {
+          "user": "user_009",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T14:44:59.111595"
+        },
+        {
+          "user": "user_009",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T14:44:59.111595"
+        },
+        {
+          "user": "user_010",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T14:44:59.111595"
+        },
+        {
+          "user": "user_010",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T14:44:59.112536"
+        },
+        {
+          "user": "user_011",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T14:44:59.112536"
+        },
+        {
+          "user": "user_011",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T14:44:59.112536"
+        },
+        {
+          "user": "user_012",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T14:44:59.113539"
+        },
+        {
+          "user": "user_012",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T14:44:59.114537"
+        },
+        {
+          "user": "user_013",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T14:44:59.114537"
+        },
+        {
+          "user": "user_013",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T14:44:59.114537"
+        },
+        {
+          "user": "user_014",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T14:44:59.115543"
+        },
+        {
+          "user": "user_014",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T14:44:59.115543"
+        },
+        {
+          "user": "user_015",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T14:44:59.115543"
+        },
+        {
+          "user": "user_015",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T14:44:59.115543"
+        },
+        {
+          "user": "user_016",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T14:44:59.116539"
+        },
+        {
+          "user": "user_016",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T14:44:59.116539"
+        },
+        {
+          "user": "user_017",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T14:44:59.116539"
+        },
+        {
+          "user": "user_017",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T14:44:59.117537"
+        },
+        {
+          "user": "user_018",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T14:44:59.117537"
+        },
+        {
+          "user": "user_018",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T14:44:59.117537"
+        },
+        {
+          "user": "user_019",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T14:44:59.117537"
+        },
+        {
+          "user": "user_019",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T14:44:59.118535"
+        },
+        {
+          "user": "user_020",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T14:44:59.118535"
+        },
+        {
+          "user": "user_020",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T14:44:59.118535"
+        },
+        {
+          "user": "user_021",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T14:44:59.119537"
+        },
+        {
+          "user": "user_021",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T14:44:59.119537"
+        },
+        {
+          "user": "user_022",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T14:44:59.119537"
+        },
+        {
+          "user": "user_022",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T14:44:59.120537"
+        },
+        {
+          "user": "user_023",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T14:44:59.120537"
+        },
+        {
+          "user": "user_023",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T14:44:59.120537"
+        },
+        {
+          "user": "user_024",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T14:44:59.120537"
+        },
+        {
+          "user": "user_024",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T14:44:59.120537"
+        },
+        {
+          "user": "user_025",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T14:44:59.121535"
+        },
+        {
+          "user": "user_025",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T14:44:59.121535"
+        },
+        {
+          "user": "user_026",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T14:44:59.121535"
+        },
+        {
+          "user": "user_026",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T14:44:59.122536"
+        },
+        {
+          "user": "user_027",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T14:44:59.122536"
+        },
+        {
+          "user": "user_027",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T14:44:59.122536"
+        },
+        {
+          "user": "user_028",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T14:44:59.123536"
+        },
+        {
+          "user": "user_028",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T14:44:59.123536"
+        },
+        {
+          "user": "user_029",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T14:44:59.123536"
+        },
+        {
+          "user": "user_029",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T14:44:59.124533"
+        },
+        {
+          "user": "user_030",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T14:44:59.124533"
+        },
+        {
+          "user": "user_030",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T14:44:59.124533"
+        }
+      ],
+      "summary": {
+        "total_attacks": 0,
+        "successful_attacks": 0,
+        "failed_attacks": 0,
+        "compromised_users": [],
+        "attack_types": {}
+      }
+    },
+    {
+      "simulation_id": "20250604_145416",
+      "timestamp": "2025-06-04T14:54:16.035294",
+      "target_users": [
+        "user_001",
+        "user_002",
+        "user_003",
+        "user_004",
+        "user_005",
+        "user_006",
+        "user_007",
+        "user_008",
+        "user_009",
+        "user_010",
+        "user_011",
+        "user_012",
+        "user_013",
+        "user_014",
+        "user_015",
+        "user_016",
+        "user_017",
+        "user_018",
+        "user_019",
+        "user_020",
+        "user_021",
+        "user_022",
+        "user_023",
+        "user_024",
+        "user_025",
+        "user_026",
+        "user_027",
+        "user_028",
+        "user_029",
+        "user_030"
+      ],
+      "attacks_executed": [
+        {
+          "user": "user_001",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T14:54:16.036286"
+        },
+        {
+          "user": "user_001",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T14:54:16.036286"
+        },
+        {
+          "user": "user_002",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T14:54:16.037292"
+        },
+        {
+          "user": "user_002",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T14:54:16.037292"
+        },
+        {
+          "user": "user_003",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T14:54:16.037292"
+        },
+        {
+          "user": "user_003",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T14:54:16.038290"
+        },
+        {
+          "user": "user_004",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T14:54:16.038290"
+        },
+        {
+          "user": "user_004",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T14:54:16.038290"
+        },
+        {
+          "user": "user_005",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T14:54:16.038290"
+        },
+        {
+          "user": "user_005",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T14:54:16.039289"
+        },
+        {
+          "user": "user_006",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T14:54:16.039289"
+        },
+        {
+          "user": "user_006",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T14:54:16.039289"
+        },
+        {
+          "user": "user_007",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T14:54:16.039289"
+        },
+        {
+          "user": "user_007",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T14:54:16.040287"
+        },
+        {
+          "user": "user_008",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T14:54:16.041287"
+        },
+        {
+          "user": "user_008",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T14:54:16.041287"
+        },
+        {
+          "user": "user_009",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T14:54:16.041287"
+        },
+        {
+          "user": "user_009",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T14:54:16.041287"
+        },
+        {
+          "user": "user_010",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T14:54:16.041287"
+        },
+        {
+          "user": "user_010",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T14:54:16.041287"
+        },
+        {
+          "user": "user_011",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T14:54:16.042521"
+        },
+        {
+          "user": "user_011",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T14:54:16.042521"
+        },
+        {
+          "user": "user_012",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T14:54:16.042521"
+        },
+        {
+          "user": "user_012",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T14:54:16.042521"
+        },
+        {
+          "user": "user_013",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T14:54:16.042521"
+        },
+        {
+          "user": "user_013",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T14:54:16.043524"
+        },
+        {
+          "user": "user_014",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T14:54:16.043524"
+        },
+        {
+          "user": "user_014",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T14:54:16.043524"
+        },
+        {
+          "user": "user_015",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T14:54:16.043524"
+        },
+        {
+          "user": "user_015",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T14:54:16.043524"
+        },
+        {
+          "user": "user_016",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T14:54:16.043524"
+        },
+        {
+          "user": "user_016",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T14:54:16.044524"
+        },
+        {
+          "user": "user_017",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T14:54:16.044524"
+        },
+        {
+          "user": "user_017",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T14:54:16.044524"
+        },
+        {
+          "user": "user_018",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T14:54:16.044524"
+        },
+        {
+          "user": "user_018",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T14:54:16.044524"
+        },
+        {
+          "user": "user_019",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T14:54:16.044524"
+        },
+        {
+          "user": "user_019",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T14:54:16.044524"
+        },
+        {
+          "user": "user_020",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T14:54:16.045524"
+        },
+        {
+          "user": "user_020",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T14:54:16.045524"
+        },
+        {
+          "user": "user_021",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T14:54:16.045524"
+        },
+        {
+          "user": "user_021",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T14:54:16.046525"
+        },
+        {
+          "user": "user_022",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T14:54:16.046525"
+        },
+        {
+          "user": "user_022",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T14:54:16.046525"
+        },
+        {
+          "user": "user_023",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T14:54:16.046525"
+        },
+        {
+          "user": "user_023",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T14:54:16.046525"
+        },
+        {
+          "user": "user_024",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T14:54:16.046525"
+        },
+        {
+          "user": "user_024",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T14:54:16.046525"
+        },
+        {
+          "user": "user_025",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T14:54:16.047523"
+        },
+        {
+          "user": "user_025",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T14:54:16.047523"
+        },
+        {
+          "user": "user_026",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T14:54:16.047523"
+        },
+        {
+          "user": "user_026",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T14:54:16.047523"
+        },
+        {
+          "user": "user_027",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T14:54:16.048525"
+        },
+        {
+          "user": "user_027",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T14:54:16.048525"
+        },
+        {
+          "user": "user_028",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T14:54:16.048525"
+        },
+        {
+          "user": "user_028",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T14:54:16.048525"
+        },
+        {
+          "user": "user_029",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T14:54:16.048525"
+        },
+        {
+          "user": "user_029",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T14:54:16.049523"
+        },
+        {
+          "user": "user_030",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T14:54:16.049523"
+        },
+        {
+          "user": "user_030",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T14:54:16.049523"
+        }
+      ],
+      "summary": {
+        "total_attacks": 0,
+        "successful_attacks": 0,
+        "failed_attacks": 0,
+        "compromised_users": [],
+        "attack_types": {}
+      }
+    },
+    {
+      "simulation_id": "20250604_152518",
+      "timestamp": "2025-06-04T15:25:18.047804",
+      "target_users": [
+        "user_001",
+        "user_002",
+        "user_003",
+        "user_004",
+        "user_005",
+        "user_006",
+        "user_007",
+        "user_008",
+        "user_009",
+        "user_010",
+        "user_011",
+        "user_012",
+        "user_013",
+        "user_014",
+        "user_015",
+        "user_016",
+        "user_017",
+        "user_018",
+        "user_019",
+        "user_020",
+        "user_021",
+        "user_022",
+        "user_023",
+        "user_024",
+        "user_025",
+        "user_026",
+        "user_027",
+        "user_028",
+        "user_029",
+        "user_030"
+      ],
+      "attacks_executed": [
+        {
+          "user": "user_001",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T15:25:18.047804"
+        },
+        {
+          "user": "user_001",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T15:25:18.048788"
+        },
+        {
+          "user": "user_002",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T15:25:18.048788"
+        },
+        {
+          "user": "user_002",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T15:25:18.048788"
+        },
+        {
+          "user": "user_003",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T15:25:18.049787"
+        },
+        {
+          "user": "user_003",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T15:25:18.049787"
+        },
+        {
+          "user": "user_004",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T15:25:18.049787"
+        },
+        {
+          "user": "user_004",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T15:25:18.049787"
+        },
+        {
+          "user": "user_005",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T15:25:18.049787"
+        },
+        {
+          "user": "user_005",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T15:25:18.050814"
+        },
+        {
+          "user": "user_006",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T15:25:18.050814"
+        },
+        {
+          "user": "user_006",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T15:25:18.050814"
+        },
+        {
+          "user": "user_007",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T15:25:18.050814"
+        },
+        {
+          "user": "user_007",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T15:25:18.050814"
+        },
+        {
+          "user": "user_008",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T15:25:18.051792"
+        },
+        {
+          "user": "user_008",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T15:25:18.051792"
+        },
+        {
+          "user": "user_009",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T15:25:18.051792"
+        },
+        {
+          "user": "user_009",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T15:25:18.051792"
+        },
+        {
+          "user": "user_010",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T15:25:18.051792"
+        },
+        {
+          "user": "user_010",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T15:25:18.052785"
+        },
+        {
+          "user": "user_011",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T15:25:18.052785"
+        },
+        {
+          "user": "user_011",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T15:25:18.052785"
+        },
+        {
+          "user": "user_012",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T15:25:18.052785"
+        },
+        {
+          "user": "user_012",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T15:25:18.052785"
+        },
+        {
+          "user": "user_013",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T15:25:18.052785"
+        },
+        {
+          "user": "user_013",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T15:25:18.053798"
+        },
+        {
+          "user": "user_014",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T15:25:18.053798"
+        },
+        {
+          "user": "user_014",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T15:25:18.053798"
+        },
+        {
+          "user": "user_015",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T15:25:18.053798"
+        },
+        {
+          "user": "user_015",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T15:25:18.054785"
+        },
+        {
+          "user": "user_016",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T15:25:18.054785"
+        },
+        {
+          "user": "user_016",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T15:25:18.055799"
+        },
+        {
+          "user": "user_017",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T15:25:18.055799"
+        },
+        {
+          "user": "user_017",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T15:25:18.056797"
+        },
+        {
+          "user": "user_018",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T15:25:18.056797"
+        },
+        {
+          "user": "user_018",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T15:25:18.056797"
+        },
+        {
+          "user": "user_019",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T15:25:18.057804"
+        },
+        {
+          "user": "user_019",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T15:25:18.057804"
+        },
+        {
+          "user": "user_020",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T15:25:18.057804"
+        },
+        {
+          "user": "user_020",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T15:25:18.057804"
+        },
+        {
+          "user": "user_021",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T15:25:18.058796"
+        },
+        {
+          "user": "user_021",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T15:25:18.058796"
+        },
+        {
+          "user": "user_022",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T15:25:18.058796"
+        },
+        {
+          "user": "user_022",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T15:25:18.059783"
+        },
+        {
+          "user": "user_023",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T15:25:18.059783"
+        },
+        {
+          "user": "user_023",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T15:25:18.059783"
+        },
+        {
+          "user": "user_024",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T15:25:18.060799"
+        },
+        {
+          "user": "user_024",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T15:25:18.060799"
+        },
+        {
+          "user": "user_025",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T15:25:18.060799"
+        },
+        {
+          "user": "user_025",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T15:25:18.061789"
+        },
+        {
+          "user": "user_026",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T15:25:18.061789"
+        },
+        {
+          "user": "user_026",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T15:25:18.061789"
+        },
+        {
+          "user": "user_027",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T15:25:18.061789"
+        },
+        {
+          "user": "user_027",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T15:25:18.062793"
+        },
+        {
+          "user": "user_028",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T15:25:18.062793"
+        },
+        {
+          "user": "user_028",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T15:25:18.062793"
+        },
+        {
+          "user": "user_029",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T15:25:18.062793"
+        },
+        {
+          "user": "user_029",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T15:25:18.063788"
+        },
+        {
+          "user": "user_030",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T15:25:18.063788"
+        },
+        {
+          "user": "user_030",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T15:25:18.063788"
+        }
+      ],
+      "summary": {
+        "total_attacks": 0,
+        "successful_attacks": 0,
+        "failed_attacks": 0,
+        "compromised_users": [],
+        "attack_types": {}
+      }
+    },
+    {
+      "simulation_id": "20250604_152848",
+      "timestamp": "2025-06-04T15:28:48.302669",
+      "target_users": [
+        "user_001",
+        "user_002",
+        "user_003",
+        "user_004",
+        "user_005",
+        "user_006",
+        "user_007",
+        "user_008",
+        "user_009",
+        "user_010",
+        "user_011",
+        "user_012",
+        "user_013",
+        "user_014",
+        "user_015",
+        "user_016",
+        "user_017",
+        "user_018",
+        "user_019",
+        "user_020",
+        "user_021",
+        "user_022",
+        "user_023",
+        "user_024",
+        "user_025",
+        "user_026",
+        "user_027",
+        "user_028",
+        "user_029",
+        "user_030"
+      ],
+      "attacks_executed": [
+        {
+          "user": "user_001",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T15:28:48.303671"
+        },
+        {
+          "user": "user_001",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T15:28:48.304668"
+        },
+        {
+          "user": "user_002",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T15:28:48.304668"
+        },
+        {
+          "user": "user_002",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T15:28:48.305671"
+        },
+        {
+          "user": "user_003",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T15:28:48.305671"
+        },
+        {
+          "user": "user_003",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T15:28:48.306669"
+        },
+        {
+          "user": "user_004",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T15:28:48.307668"
+        },
+        {
+          "user": "user_004",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T15:28:48.308667"
+        },
+        {
+          "user": "user_005",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T15:28:48.308667"
+        },
+        {
+          "user": "user_005",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T15:28:48.311140"
+        },
+        {
+          "user": "user_006",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T15:28:48.312138"
+        },
+        {
+          "user": "user_006",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T15:28:48.312138"
+        },
+        {
+          "user": "user_007",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T15:28:48.313136"
+        },
+        {
+          "user": "user_007",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T15:28:48.314136"
+        },
+        {
+          "user": "user_008",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T15:28:48.314136"
+        },
+        {
+          "user": "user_008",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T15:28:48.315135"
+        },
+        {
+          "user": "user_009",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T15:28:48.316136"
+        },
+        {
+          "user": "user_009",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T15:28:48.317135"
+        },
+        {
+          "user": "user_010",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T15:28:48.318136"
+        },
+        {
+          "user": "user_010",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T15:28:48.319138"
+        },
+        {
+          "user": "user_011",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T15:28:48.319138"
+        },
+        {
+          "user": "user_011",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T15:28:48.320139"
+        },
+        {
+          "user": "user_012",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T15:28:48.321138"
+        },
+        {
+          "user": "user_012",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T15:28:48.322135"
+        },
+        {
+          "user": "user_013",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T15:28:48.323134"
+        },
+        {
+          "user": "user_013",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T15:28:48.324138"
+        },
+        {
+          "user": "user_014",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T15:28:48.325137"
+        },
+        {
+          "user": "user_014",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T15:28:48.326138"
+        },
+        {
+          "user": "user_015",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T15:28:48.328144"
+        },
+        {
+          "user": "user_015",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T15:28:48.330138"
+        },
+        {
+          "user": "user_016",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T15:28:48.331140"
+        },
+        {
+          "user": "user_016",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T15:28:48.332134"
+        },
+        {
+          "user": "user_017",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T15:28:48.333134"
+        },
+        {
+          "user": "user_017",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T15:28:48.334134"
+        },
+        {
+          "user": "user_018",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T15:28:48.335135"
+        },
+        {
+          "user": "user_018",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T15:28:48.336135"
+        },
+        {
+          "user": "user_019",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T15:28:48.337134"
+        },
+        {
+          "user": "user_019",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T15:28:48.338133"
+        },
+        {
+          "user": "user_020",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T15:28:48.340135"
+        },
+        {
+          "user": "user_020",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T15:28:48.341136"
+        },
+        {
+          "user": "user_021",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T15:28:48.342140"
+        },
+        {
+          "user": "user_021",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T15:28:48.345139"
+        },
+        {
+          "user": "user_022",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T15:28:48.346137"
+        },
+        {
+          "user": "user_022",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T15:28:48.347139"
+        },
+        {
+          "user": "user_023",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T15:28:48.348137"
+        },
+        {
+          "user": "user_023",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T15:28:48.349140"
+        },
+        {
+          "user": "user_024",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T15:28:48.350140"
+        },
+        {
+          "user": "user_024",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T15:28:48.352142"
+        },
+        {
+          "user": "user_025",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T15:28:48.353139"
+        },
+        {
+          "user": "user_025",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T15:28:48.354137"
+        },
+        {
+          "user": "user_026",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T15:28:48.355150"
+        },
+        {
+          "user": "user_026",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T15:28:48.356146"
+        },
+        {
+          "user": "user_027",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T15:28:48.357150"
+        },
+        {
+          "user": "user_027",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T15:28:48.358151"
+        },
+        {
+          "user": "user_028",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T15:28:48.361149"
+        },
+        {
+          "user": "user_028",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T15:28:48.362150"
+        },
+        {
+          "user": "user_029",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T15:28:48.364150"
+        },
+        {
+          "user": "user_029",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T15:28:48.365144"
+        },
+        {
+          "user": "user_030",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T15:28:48.365144"
+        },
+        {
+          "user": "user_030",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-04T15:28:48.366146"
+        }
+      ],
+      "summary": {
+        "total_attacks": 0,
+        "successful_attacks": 0,
+        "failed_attacks": 0,
+        "compromised_users": [],
+        "attack_types": {}
+      }
+    },
+    {
+      "simulation_id": "20250605_140103",
+      "timestamp": "2025-06-05T14:01:03.534573",
+      "target_users": [],
+      "attacks_executed": [],
+      "summary": {
+        "total_attacks": 0,
+        "successful_attacks": 0,
+        "failed_attacks": 0,
+        "compromised_users": [],
+        "attack_types": {}
+      }
+    },
+    {
+      "simulation_id": "20250605_142409",
+      "timestamp": "2025-06-05T14:24:09.077878",
+      "target_users": [],
+      "attacks_executed": [],
+      "summary": {
+        "total_attacks": 0,
+        "successful_attacks": 0,
+        "failed_attacks": 0,
+        "compromised_users": [],
+        "attack_types": {}
+      }
+    },
+    {
+      "simulation_id": "20250605_151850",
+      "timestamp": "2025-06-05T15:18:50.836824",
+      "target_users": [],
+      "attacks_executed": [],
+      "summary": {
+        "total_attacks": 0,
+        "successful_attacks": 0,
+        "failed_attacks": 0,
+        "compromised_users": [],
+        "attack_types": {}
+      }
+    },
+    {
+      "simulation_id": "20250605_152205",
+      "timestamp": "2025-06-05T15:22:05.910113",
+      "target_users": [
+        "user_001",
+        "user_002",
+        "user_003",
+        "user_004",
+        "user_005",
+        "user_006",
+        "user_007",
+        "user_008",
+        "user_009",
+        "user_010",
+        "user_011",
+        "user_012",
+        "user_013",
+        "user_014",
+        "user_015",
+        "user_016",
+        "user_017",
+        "user_018",
+        "user_019",
+        "user_020",
+        "user_021",
+        "user_022",
+        "user_023",
+        "user_024",
+        "user_025",
+        "user_026",
+        "user_027",
+        "user_028",
+        "user_029",
+        "user_030"
+      ],
+      "attacks_executed": [
+        {
+          "user": "user_001",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-05T15:22:05.910113"
+        },
+        {
+          "user": "user_001",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-05T15:22:05.911123"
+        },
+        {
+          "user": "user_002",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-05T15:22:05.911123"
+        },
+        {
+          "user": "user_002",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-05T15:22:05.911123"
+        },
+        {
+          "user": "user_003",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-05T15:22:05.911123"
+        },
+        {
+          "user": "user_003",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-05T15:22:05.912122"
+        },
+        {
+          "user": "user_004",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-05T15:22:05.912122"
+        },
+        {
+          "user": "user_004",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-05T15:22:05.912122"
+        },
+        {
+          "user": "user_005",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-05T15:22:05.912122"
+        },
+        {
+          "user": "user_005",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-05T15:22:05.913239"
+        },
+        {
+          "user": "user_006",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-05T15:22:05.913239"
+        },
+        {
+          "user": "user_006",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-05T15:22:05.913239"
+        },
+        {
+          "user": "user_007",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-05T15:22:05.913239"
+        },
+        {
+          "user": "user_007",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-05T15:22:05.914610"
+        },
+        {
+          "user": "user_008",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-05T15:22:05.914610"
+        },
+        {
+          "user": "user_008",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-05T15:22:05.914610"
+        },
+        {
+          "user": "user_009",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-05T15:22:05.914610"
+        },
+        {
+          "user": "user_009",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-05T15:22:05.914610"
+        },
+        {
+          "user": "user_010",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-05T15:22:05.914610"
+        },
+        {
+          "user": "user_010",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-05T15:22:05.914610"
+        },
+        {
+          "user": "user_011",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-05T15:22:05.915615"
+        },
+        {
+          "user": "user_011",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-05T15:22:05.915615"
+        },
+        {
+          "user": "user_012",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-05T15:22:05.915615"
+        },
+        {
+          "user": "user_012",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-05T15:22:05.915615"
+        },
+        {
+          "user": "user_013",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-05T15:22:05.915615"
+        },
+        {
+          "user": "user_013",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-05T15:22:05.915615"
+        },
+        {
+          "user": "user_014",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-05T15:22:05.915615"
+        },
+        {
+          "user": "user_014",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-05T15:22:05.915615"
+        },
+        {
+          "user": "user_015",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-05T15:22:05.916615"
+        },
+        {
+          "user": "user_015",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-05T15:22:05.916615"
+        },
+        {
+          "user": "user_016",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-05T15:22:05.916615"
+        },
+        {
+          "user": "user_016",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-05T15:22:05.916615"
+        },
+        {
+          "user": "user_017",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-05T15:22:05.916615"
+        },
+        {
+          "user": "user_017",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-05T15:22:05.916615"
+        },
+        {
+          "user": "user_018",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-05T15:22:05.916615"
+        },
+        {
+          "user": "user_018",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-05T15:22:05.916615"
+        },
+        {
+          "user": "user_019",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-05T15:22:05.917616"
+        },
+        {
+          "user": "user_019",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-05T15:22:05.917616"
+        },
+        {
+          "user": "user_020",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-05T15:22:05.917616"
+        },
+        {
+          "user": "user_020",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-05T15:22:05.917616"
+        },
+        {
+          "user": "user_021",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-05T15:22:05.917616"
+        },
+        {
+          "user": "user_021",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-05T15:22:05.917616"
+        },
+        {
+          "user": "user_022",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-05T15:22:05.918617"
+        },
+        {
+          "user": "user_022",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-05T15:22:05.918617"
+        },
+        {
+          "user": "user_023",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-05T15:22:05.920617"
+        },
+        {
+          "user": "user_023",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-05T15:22:05.920617"
+        },
+        {
+          "user": "user_024",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-05T15:22:05.920617"
+        },
+        {
+          "user": "user_024",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-05T15:22:05.920617"
+        },
+        {
+          "user": "user_025",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-05T15:22:05.921618"
+        },
+        {
+          "user": "user_025",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-05T15:22:05.921618"
+        },
+        {
+          "user": "user_026",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-05T15:22:05.921618"
+        },
+        {
+          "user": "user_026",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-05T15:22:05.923618"
+        },
+        {
+          "user": "user_027",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-05T15:22:05.924126"
+        },
+        {
+          "user": "user_027",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-05T15:22:05.924126"
+        },
+        {
+          "user": "user_028",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-05T15:22:05.924126"
+        },
+        {
+          "user": "user_028",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-05T15:22:05.925136"
+        },
+        {
+          "user": "user_029",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-05T15:22:05.926137"
+        },
+        {
+          "user": "user_029",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-05T15:22:05.926137"
+        },
+        {
+          "user": "user_030",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-05T15:22:05.927136"
+        },
+        {
+          "user": "user_030",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-05T15:22:05.927136"
+        }
+      ],
+      "summary": {
+        "total_attacks": 0,
+        "successful_attacks": 0,
+        "failed_attacks": 0,
+        "compromised_users": [],
+        "attack_types": {}
+      }
+    },
+    {
+      "simulation_id": "20250605_153149",
+      "timestamp": "2025-06-05T15:31:49.593256",
+      "target_users": [
+        "user_001",
+        "user_002",
+        "user_003",
+        "user_004",
+        "user_005",
+        "user_006",
+        "user_007",
+        "user_008",
+        "user_009",
+        "user_010",
+        "user_011",
+        "user_012",
+        "user_013",
+        "user_014",
+        "user_015",
+        "user_016",
+        "user_017",
+        "user_018",
+        "user_019",
+        "user_020",
+        "user_021",
+        "user_022",
+        "user_023",
+        "user_024",
+        "user_025",
+        "user_026",
+        "user_027",
+        "user_028",
+        "user_029",
+        "user_030"
+      ],
+      "attacks_executed": [
+        {
+          "user": "user_001",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-05T15:31:49.593256"
+        },
+        {
+          "user": "user_001",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-05T15:31:49.594256"
+        },
+        {
+          "user": "user_002",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-05T15:31:49.594256"
+        },
+        {
+          "user": "user_002",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-05T15:31:49.594256"
+        },
+        {
+          "user": "user_003",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-05T15:31:49.594256"
+        },
+        {
+          "user": "user_003",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-05T15:31:49.594256"
+        },
+        {
+          "user": "user_004",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-05T15:31:49.594256"
+        },
+        {
+          "user": "user_004",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-05T15:31:49.594256"
+        },
+        {
+          "user": "user_005",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-05T15:31:49.595257"
+        },
+        {
+          "user": "user_005",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-05T15:31:49.595257"
+        },
+        {
+          "user": "user_006",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-05T15:31:49.595257"
+        },
+        {
+          "user": "user_006",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-05T15:31:49.595257"
+        },
+        {
+          "user": "user_007",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-05T15:31:49.595257"
+        },
+        {
+          "user": "user_007",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-05T15:31:49.595257"
+        },
+        {
+          "user": "user_008",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-05T15:31:49.595257"
+        },
+        {
+          "user": "user_008",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-05T15:31:49.596260"
+        },
+        {
+          "user": "user_009",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-05T15:31:49.596260"
+        },
+        {
+          "user": "user_009",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-05T15:31:49.596260"
+        },
+        {
+          "user": "user_010",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-05T15:31:49.596260"
+        },
+        {
+          "user": "user_010",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-05T15:31:49.597259"
+        },
+        {
+          "user": "user_011",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-05T15:31:49.598258"
+        },
+        {
+          "user": "user_011",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-05T15:31:49.598258"
+        },
+        {
+          "user": "user_012",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-05T15:31:49.598258"
+        },
+        {
+          "user": "user_012",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-05T15:31:49.598258"
+        },
+        {
+          "user": "user_013",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-05T15:31:49.598258"
+        },
+        {
+          "user": "user_013",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-05T15:31:49.598258"
+        },
+        {
+          "user": "user_014",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-05T15:31:49.598258"
+        },
+        {
+          "user": "user_014",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-05T15:31:49.599258"
+        },
+        {
+          "user": "user_015",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-05T15:31:49.599258"
+        },
+        {
+          "user": "user_015",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-05T15:31:49.599258"
+        },
+        {
+          "user": "user_016",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-05T15:31:49.599258"
+        },
+        {
+          "user": "user_016",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-05T15:31:49.599258"
+        },
+        {
+          "user": "user_017",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-05T15:31:49.599258"
+        },
+        {
+          "user": "user_017",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-05T15:31:49.599258"
+        },
+        {
+          "user": "user_018",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-05T15:31:49.599258"
+        },
+        {
+          "user": "user_018",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-05T15:31:49.599258"
+        },
+        {
+          "user": "user_019",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-05T15:31:49.600255"
+        },
+        {
+          "user": "user_019",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-05T15:31:49.600255"
+        },
+        {
+          "user": "user_020",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-05T15:31:49.600255"
+        },
+        {
+          "user": "user_020",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-05T15:31:49.600255"
+        },
+        {
+          "user": "user_021",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-05T15:31:49.600255"
+        },
+        {
+          "user": "user_021",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-05T15:31:49.600255"
+        },
+        {
+          "user": "user_022",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-05T15:31:49.600255"
+        },
+        {
+          "user": "user_022",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-05T15:31:49.601255"
+        },
+        {
+          "user": "user_023",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-05T15:31:49.601255"
+        },
+        {
+          "user": "user_023",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-05T15:31:49.601255"
+        },
+        {
+          "user": "user_024",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-05T15:31:49.601255"
+        },
+        {
+          "user": "user_024",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-05T15:31:49.601255"
+        },
+        {
+          "user": "user_025",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-05T15:31:49.601255"
+        },
+        {
+          "user": "user_025",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-05T15:31:49.601255"
+        },
+        {
+          "user": "user_026",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-05T15:31:49.601255"
+        },
+        {
+          "user": "user_026",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-05T15:31:49.602255"
+        },
+        {
+          "user": "user_027",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-05T15:31:49.602255"
+        },
+        {
+          "user": "user_027",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-05T15:31:49.602255"
+        },
+        {
+          "user": "user_028",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-05T15:31:49.602255"
+        },
+        {
+          "user": "user_028",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-05T15:31:49.602255"
+        },
+        {
+          "user": "user_029",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-05T15:31:49.603255"
+        },
+        {
+          "user": "user_029",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-05T15:31:49.603255"
+        },
+        {
+          "user": "user_030",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-05T15:31:49.603255"
+        },
+        {
+          "user": "user_030",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-05T15:31:49.603255"
+        }
+      ],
+      "summary": {
+        "total_attacks": 0,
+        "successful_attacks": 0,
+        "failed_attacks": 0,
+        "compromised_users": [],
+        "attack_types": {}
+      }
+    },
+    {
+      "simulation_id": "20250606_123907",
+      "timestamp": "2025-06-06T12:39:07.555536",
+      "target_users": [
+        "user_001",
+        "user_002",
+        "user_003",
+        "user_004",
+        "user_005",
+        "user_006",
+        "user_007",
+        "user_008",
+        "user_009",
+        "user_010",
+        "user_011",
+        "user_012",
+        "user_013",
+        "user_014",
+        "user_015",
+        "user_016",
+        "user_017",
+        "user_018",
+        "user_019",
+        "user_020",
+        "user_021",
+        "user_022",
+        "user_023",
+        "user_024",
+        "user_025",
+        "user_026",
+        "user_027",
+        "user_028",
+        "user_029",
+        "user_030"
+      ],
+      "attacks_executed": [
+        {
+          "user": "user_001",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "argument of type 'AttackResult' is not iterable",
+          "timestamp": "2025-06-06T12:39:07.555536"
+        },
+        {
+          "user": "user_001",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'dict' object has no attribute 'primary_role'",
+          "timestamp": "2025-06-06T12:39:07.556538"
+        },
+        {
+          "user": "user_002",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'dict' object has no attribute 'primary_role'",
+          "timestamp": "2025-06-06T12:39:07.556538"
+        },
+        {
+          "user": "user_002",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'dict' object has no attribute 'primary_role'",
+          "timestamp": "2025-06-06T12:39:07.556538"
+        },
+        {
+          "user": "user_003",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'dict' object has no attribute 'primary_role'",
+          "timestamp": "2025-06-06T12:39:07.557540"
+        },
+        {
+          "user": "user_003",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'dict' object has no attribute 'primary_role'",
+          "timestamp": "2025-06-06T12:39:07.557540"
+        },
+        {
+          "user": "user_004",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "argument of type 'AttackResult' is not iterable",
+          "timestamp": "2025-06-06T12:39:07.557540"
+        },
+        {
+          "user": "user_004",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'dict' object has no attribute 'primary_role'",
+          "timestamp": "2025-06-06T12:39:07.557540"
+        },
+        {
+          "user": "user_005",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "argument of type 'AttackResult' is not iterable",
+          "timestamp": "2025-06-06T12:39:07.558542"
+        },
+        {
+          "user": "user_005",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'dict' object has no attribute 'primary_role'",
+          "timestamp": "2025-06-06T12:39:07.558542"
+        },
+        {
+          "user": "user_006",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "argument of type 'AttackResult' is not iterable",
+          "timestamp": "2025-06-06T12:39:07.558542"
+        },
+        {
+          "user": "user_006",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'dict' object has no attribute 'primary_role'",
+          "timestamp": "2025-06-06T12:39:07.559538"
+        },
+        {
+          "user": "user_007",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "argument of type 'AttackResult' is not iterable",
+          "timestamp": "2025-06-06T12:39:07.559538"
+        },
+        {
+          "user": "user_007",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'dict' object has no attribute 'primary_role'",
+          "timestamp": "2025-06-06T12:39:07.559538"
+        },
+        {
+          "user": "user_008",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "argument of type 'AttackResult' is not iterable",
+          "timestamp": "2025-06-06T12:39:07.559538"
+        },
+        {
+          "user": "user_008",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'dict' object has no attribute 'primary_role'",
+          "timestamp": "2025-06-06T12:39:07.560538"
+        },
+        {
+          "user": "user_009",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "argument of type 'AttackResult' is not iterable",
+          "timestamp": "2025-06-06T12:39:07.560538"
+        },
+        {
+          "user": "user_009",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'dict' object has no attribute 'primary_role'",
+          "timestamp": "2025-06-06T12:39:07.560538"
+        },
+        {
+          "user": "user_010",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "argument of type 'AttackResult' is not iterable",
+          "timestamp": "2025-06-06T12:39:07.560538"
+        },
+        {
+          "user": "user_010",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'dict' object has no attribute 'primary_role'",
+          "timestamp": "2025-06-06T12:39:07.561539"
+        },
+        {
+          "user": "user_011",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "argument of type 'AttackResult' is not iterable",
+          "timestamp": "2025-06-06T12:39:07.561539"
+        },
+        {
+          "user": "user_011",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'dict' object has no attribute 'primary_role'",
+          "timestamp": "2025-06-06T12:39:07.561539"
+        },
+        {
+          "user": "user_012",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'dict' object has no attribute 'primary_role'",
+          "timestamp": "2025-06-06T12:39:07.562539"
+        },
+        {
+          "user": "user_012",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'dict' object has no attribute 'primary_role'",
+          "timestamp": "2025-06-06T12:39:07.562539"
+        },
+        {
+          "user": "user_013",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'dict' object has no attribute 'primary_role'",
+          "timestamp": "2025-06-06T12:39:07.562539"
+        },
+        {
+          "user": "user_013",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'dict' object has no attribute 'primary_role'",
+          "timestamp": "2025-06-06T12:39:07.562539"
+        },
+        {
+          "user": "user_014",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "argument of type 'AttackResult' is not iterable",
+          "timestamp": "2025-06-06T12:39:07.563538"
+        },
+        {
+          "user": "user_014",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'dict' object has no attribute 'primary_role'",
+          "timestamp": "2025-06-06T12:39:07.563538"
+        },
+        {
+          "user": "user_015",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "argument of type 'AttackResult' is not iterable",
+          "timestamp": "2025-06-06T12:39:07.563538"
+        },
+        {
+          "user": "user_015",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'dict' object has no attribute 'primary_role'",
+          "timestamp": "2025-06-06T12:39:07.563538"
+        },
+        {
+          "user": "user_016",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "argument of type 'AttackResult' is not iterable",
+          "timestamp": "2025-06-06T12:39:07.564534"
+        },
+        {
+          "user": "user_016",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'dict' object has no attribute 'primary_role'",
+          "timestamp": "2025-06-06T12:39:07.564534"
+        },
+        {
+          "user": "user_017",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'dict' object has no attribute 'primary_role'",
+          "timestamp": "2025-06-06T12:39:07.564534"
+        },
+        {
+          "user": "user_017",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'dict' object has no attribute 'primary_role'",
+          "timestamp": "2025-06-06T12:39:07.564534"
+        },
+        {
+          "user": "user_018",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'dict' object has no attribute 'primary_role'",
+          "timestamp": "2025-06-06T12:39:07.565534"
+        },
+        {
+          "user": "user_018",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'dict' object has no attribute 'primary_role'",
+          "timestamp": "2025-06-06T12:39:07.565534"
+        },
+        {
+          "user": "user_019",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "argument of type 'AttackResult' is not iterable",
+          "timestamp": "2025-06-06T12:39:07.565534"
+        },
+        {
+          "user": "user_019",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'dict' object has no attribute 'primary_role'",
+          "timestamp": "2025-06-06T12:39:07.565534"
+        },
+        {
+          "user": "user_020",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "argument of type 'AttackResult' is not iterable",
+          "timestamp": "2025-06-06T12:39:07.566535"
+        },
+        {
+          "user": "user_020",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'dict' object has no attribute 'primary_role'",
+          "timestamp": "2025-06-06T12:39:07.566535"
+        },
+        {
+          "user": "user_021",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'dict' object has no attribute 'primary_role'",
+          "timestamp": "2025-06-06T12:39:07.566535"
+        },
+        {
+          "user": "user_021",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'dict' object has no attribute 'primary_role'",
+          "timestamp": "2025-06-06T12:39:07.566535"
+        },
+        {
+          "user": "user_022",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "argument of type 'AttackResult' is not iterable",
+          "timestamp": "2025-06-06T12:39:07.566535"
+        },
+        {
+          "user": "user_022",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'dict' object has no attribute 'primary_role'",
+          "timestamp": "2025-06-06T12:39:07.567536"
+        },
+        {
+          "user": "user_023",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "argument of type 'AttackResult' is not iterable",
+          "timestamp": "2025-06-06T12:39:07.567536"
+        },
+        {
+          "user": "user_023",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'dict' object has no attribute 'primary_role'",
+          "timestamp": "2025-06-06T12:39:07.567536"
+        },
+        {
+          "user": "user_024",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'dict' object has no attribute 'primary_role'",
+          "timestamp": "2025-06-06T12:39:07.567536"
+        },
+        {
+          "user": "user_024",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'dict' object has no attribute 'primary_role'",
+          "timestamp": "2025-06-06T12:39:07.568535"
+        },
+        {
+          "user": "user_025",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'dict' object has no attribute 'primary_role'",
+          "timestamp": "2025-06-06T12:39:07.568535"
+        },
+        {
+          "user": "user_025",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'dict' object has no attribute 'primary_role'",
+          "timestamp": "2025-06-06T12:39:07.568535"
+        },
+        {
+          "user": "user_026",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "argument of type 'AttackResult' is not iterable",
+          "timestamp": "2025-06-06T12:39:07.568535"
+        },
+        {
+          "user": "user_026",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'dict' object has no attribute 'primary_role'",
+          "timestamp": "2025-06-06T12:39:07.569536"
+        },
+        {
+          "user": "user_027",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "argument of type 'AttackResult' is not iterable",
+          "timestamp": "2025-06-06T12:39:07.569536"
+        },
+        {
+          "user": "user_027",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'dict' object has no attribute 'primary_role'",
+          "timestamp": "2025-06-06T12:39:07.569536"
+        },
+        {
+          "user": "user_028",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "argument of type 'AttackResult' is not iterable",
+          "timestamp": "2025-06-06T12:39:07.570534"
+        },
+        {
+          "user": "user_028",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'dict' object has no attribute 'primary_role'",
+          "timestamp": "2025-06-06T12:39:07.570534"
+        },
+        {
+          "user": "user_029",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "argument of type 'AttackResult' is not iterable",
+          "timestamp": "2025-06-06T12:39:07.570534"
+        },
+        {
+          "user": "user_029",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'dict' object has no attribute 'primary_role'",
+          "timestamp": "2025-06-06T12:39:07.570534"
+        },
+        {
+          "user": "user_030",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "argument of type 'AttackResult' is not iterable",
+          "timestamp": "2025-06-06T12:39:07.571535"
+        },
+        {
+          "user": "user_030",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'dict' object has no attribute 'primary_role'",
+          "timestamp": "2025-06-06T12:39:07.571535"
+        }
+      ],
+      "summary": {
+        "total_attacks": 0,
+        "successful_attacks": 0,
+        "failed_attacks": 0,
+        "compromised_users": [],
+        "attack_types": {}
+      }
+    },
+    {
+      "simulation_id": "20250606_124559",
+      "timestamp": "2025-06-06T12:45:59.488660",
+      "target_users": [
+        "user_001",
+        "user_002",
+        "user_003",
+        "user_004",
+        "user_005",
+        "user_006",
+        "user_007",
+        "user_008",
+        "user_009",
+        "user_010",
+        "user_011",
+        "user_012",
+        "user_013",
+        "user_014",
+        "user_015",
+        "user_016",
+        "user_017",
+        "user_018",
+        "user_019",
+        "user_020",
+        "user_021",
+        "user_022",
+        "user_023",
+        "user_024",
+        "user_025",
+        "user_026",
+        "user_027",
+        "user_028",
+        "user_029",
+        "user_030"
+      ],
+      "attacks_executed": [
+        {
+          "user": "user_001",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-06T12:45:59.488660"
+        },
+        {
+          "user": "user_001",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-06T12:45:59.489659"
+        },
+        {
+          "user": "user_002",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-06T12:45:59.489659"
+        },
+        {
+          "user": "user_002",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-06T12:45:59.490660"
+        },
+        {
+          "user": "user_003",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-06T12:45:59.490660"
+        },
+        {
+          "user": "user_003",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-06T12:45:59.491664"
+        },
+        {
+          "user": "user_004",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-06T12:45:59.491664"
+        },
+        {
+          "user": "user_004",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-06T12:45:59.491664"
+        },
+        {
+          "user": "user_005",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-06T12:45:59.492657"
+        },
+        {
+          "user": "user_005",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-06T12:45:59.492657"
+        },
+        {
+          "user": "user_006",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-06T12:45:59.493663"
+        },
+        {
+          "user": "user_006",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-06T12:45:59.493663"
+        },
+        {
+          "user": "user_007",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-06T12:45:59.494657"
+        },
+        {
+          "user": "user_007",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-06T12:45:59.494657"
+        },
+        {
+          "user": "user_008",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-06T12:45:59.494657"
+        },
+        {
+          "user": "user_008",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-06T12:45:59.495663"
+        },
+        {
+          "user": "user_009",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-06T12:45:59.495663"
+        },
+        {
+          "user": "user_009",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-06T12:45:59.495663"
+        },
+        {
+          "user": "user_010",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-06T12:45:59.496659"
+        },
+        {
+          "user": "user_010",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-06T12:45:59.496659"
+        },
+        {
+          "user": "user_011",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-06T12:45:59.497657"
+        },
+        {
+          "user": "user_011",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-06T12:45:59.497657"
+        },
+        {
+          "user": "user_012",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-06T12:45:59.497657"
+        },
+        {
+          "user": "user_012",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-06T12:45:59.498658"
+        },
+        {
+          "user": "user_013",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-06T12:45:59.498658"
+        },
+        {
+          "user": "user_013",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-06T12:45:59.498658"
+        },
+        {
+          "user": "user_014",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-06T12:45:59.498658"
+        },
+        {
+          "user": "user_014",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-06T12:45:59.499659"
+        },
+        {
+          "user": "user_015",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-06T12:45:59.499659"
+        },
+        {
+          "user": "user_015",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-06T12:45:59.499659"
+        },
+        {
+          "user": "user_016",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-06T12:45:59.500656"
+        },
+        {
+          "user": "user_016",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-06T12:45:59.500656"
+        },
+        {
+          "user": "user_017",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-06T12:45:59.500656"
+        },
+        {
+          "user": "user_017",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-06T12:45:59.501657"
+        },
+        {
+          "user": "user_018",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-06T12:45:59.502358"
+        },
+        {
+          "user": "user_018",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-06T12:45:59.502358"
+        },
+        {
+          "user": "user_019",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-06T12:45:59.502358"
+        },
+        {
+          "user": "user_019",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-06T12:45:59.503562"
+        },
+        {
+          "user": "user_020",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-06T12:45:59.503562"
+        },
+        {
+          "user": "user_020",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-06T12:45:59.503562"
+        },
+        {
+          "user": "user_021",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-06T12:45:59.503562"
+        },
+        {
+          "user": "user_021",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-06T12:45:59.504721"
+        },
+        {
+          "user": "user_022",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-06T12:45:59.504721"
+        },
+        {
+          "user": "user_022",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-06T12:45:59.504721"
+        },
+        {
+          "user": "user_023",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-06T12:45:59.505677"
+        },
+        {
+          "user": "user_023",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-06T12:45:59.505677"
+        },
+        {
+          "user": "user_024",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-06T12:45:59.505677"
+        },
+        {
+          "user": "user_024",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-06T12:45:59.506738"
+        },
+        {
+          "user": "user_025",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-06T12:45:59.506738"
+        },
+        {
+          "user": "user_025",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-06T12:45:59.506738"
+        },
+        {
+          "user": "user_026",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-06T12:45:59.506738"
+        },
+        {
+          "user": "user_026",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-06T12:45:59.507763"
+        },
+        {
+          "user": "user_027",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-06T12:45:59.507763"
+        },
+        {
+          "user": "user_027",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-06T12:45:59.507763"
+        },
+        {
+          "user": "user_028",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-06T12:45:59.507763"
+        },
+        {
+          "user": "user_028",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-06T12:45:59.507763"
+        },
+        {
+          "user": "user_029",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-06T12:45:59.508725"
+        },
+        {
+          "user": "user_029",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-06T12:45:59.508725"
+        },
+        {
+          "user": "user_030",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-06T12:45:59.508725"
+        },
+        {
+          "user": "user_030",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-06T12:45:59.508725"
+        }
+      ],
+      "summary": {
+        "total_attacks": 0,
+        "successful_attacks": 0,
+        "failed_attacks": 0,
+        "compromised_users": [],
+        "attack_types": {}
+      }
+    },
+    {
+      "simulation_id": "20250606_124759",
+      "timestamp": "2025-06-06T12:47:59.184722",
+      "target_users": [
+        "user_001",
+        "user_002",
+        "user_003",
+        "user_004",
+        "user_005",
+        "user_006",
+        "user_007",
+        "user_008",
+        "user_009",
+        "user_010",
+        "user_011",
+        "user_012",
+        "user_013",
+        "user_014",
+        "user_015",
+        "user_016",
+        "user_017",
+        "user_018",
+        "user_019",
+        "user_020",
+        "user_021",
+        "user_022",
+        "user_023",
+        "user_024",
+        "user_025",
+        "user_026",
+        "user_027",
+        "user_028",
+        "user_029",
+        "user_030"
+      ],
+      "attacks_executed": [
+        {
+          "user": "user_001",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-06T12:47:59.184722"
+        },
+        {
+          "user": "user_001",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-06T12:47:59.184722"
+        },
+        {
+          "user": "user_002",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-06T12:47:59.184722"
+        },
+        {
+          "user": "user_002",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-06T12:47:59.184722"
+        },
+        {
+          "user": "user_003",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-06T12:47:59.185802"
+        },
+        {
+          "user": "user_003",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-06T12:47:59.185802"
+        },
+        {
+          "user": "user_004",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-06T12:47:59.185802"
+        },
+        {
+          "user": "user_004",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-06T12:47:59.185802"
+        },
+        {
+          "user": "user_005",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-06T12:47:59.186704"
+        },
+        {
+          "user": "user_005",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-06T12:47:59.186704"
+        },
+        {
+          "user": "user_006",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-06T12:47:59.186704"
+        },
+        {
+          "user": "user_006",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-06T12:47:59.186704"
+        },
+        {
+          "user": "user_007",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-06T12:47:59.186704"
+        },
+        {
+          "user": "user_007",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-06T12:47:59.186704"
+        },
+        {
+          "user": "user_008",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-06T12:47:59.186704"
+        },
+        {
+          "user": "user_008",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-06T12:47:59.186704"
+        },
+        {
+          "user": "user_009",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-06T12:47:59.187686"
+        },
+        {
+          "user": "user_009",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-06T12:47:59.187686"
+        },
+        {
+          "user": "user_010",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-06T12:47:59.187686"
+        },
+        {
+          "user": "user_010",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-06T12:47:59.187686"
+        },
+        {
+          "user": "user_011",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-06T12:47:59.187686"
+        },
+        {
+          "user": "user_011",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-06T12:47:59.187686"
+        },
+        {
+          "user": "user_012",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-06T12:47:59.187686"
+        },
+        {
+          "user": "user_012",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-06T12:47:59.187686"
+        },
+        {
+          "user": "user_013",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-06T12:47:59.187686"
+        },
+        {
+          "user": "user_013",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-06T12:47:59.188687"
+        },
+        {
+          "user": "user_014",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-06T12:47:59.188687"
+        },
+        {
+          "user": "user_014",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-06T12:47:59.188687"
+        },
+        {
+          "user": "user_015",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-06T12:47:59.188687"
+        },
+        {
+          "user": "user_015",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-06T12:47:59.188687"
+        },
+        {
+          "user": "user_016",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-06T12:47:59.188687"
+        },
+        {
+          "user": "user_016",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-06T12:47:59.188687"
+        },
+        {
+          "user": "user_017",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-06T12:47:59.188687"
+        },
+        {
+          "user": "user_017",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-06T12:47:59.189684"
+        },
+        {
+          "user": "user_018",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-06T12:47:59.189684"
+        },
+        {
+          "user": "user_018",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-06T12:47:59.189684"
+        },
+        {
+          "user": "user_019",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-06T12:47:59.189684"
+        },
+        {
+          "user": "user_019",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-06T12:47:59.189684"
+        },
+        {
+          "user": "user_020",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-06T12:47:59.189684"
+        },
+        {
+          "user": "user_020",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-06T12:47:59.189684"
+        },
+        {
+          "user": "user_021",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-06T12:47:59.189684"
+        },
+        {
+          "user": "user_021",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-06T12:47:59.189684"
+        },
+        {
+          "user": "user_022",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-06T12:47:59.189684"
+        },
+        {
+          "user": "user_022",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-06T12:47:59.190790"
+        },
+        {
+          "user": "user_023",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-06T12:47:59.190790"
+        },
+        {
+          "user": "user_023",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-06T12:47:59.190790"
+        },
+        {
+          "user": "user_024",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-06T12:47:59.190790"
+        },
+        {
+          "user": "user_024",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-06T12:47:59.190790"
+        },
+        {
+          "user": "user_025",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-06T12:47:59.190790"
+        },
+        {
+          "user": "user_025",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-06T12:47:59.190790"
+        },
+        {
+          "user": "user_026",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-06T12:47:59.190790"
+        },
+        {
+          "user": "user_026",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-06T12:47:59.190790"
+        },
+        {
+          "user": "user_027",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-06T12:47:59.191788"
+        },
+        {
+          "user": "user_027",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-06T12:47:59.191788"
+        },
+        {
+          "user": "user_028",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-06T12:47:59.191788"
+        },
+        {
+          "user": "user_028",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-06T12:47:59.191788"
+        },
+        {
+          "user": "user_029",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-06T12:47:59.191788"
+        },
+        {
+          "user": "user_029",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-06T12:47:59.191788"
+        },
+        {
+          "user": "user_030",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-06T12:47:59.191788"
+        },
+        {
+          "user": "user_030",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-06T12:47:59.191788"
+        }
+      ],
+      "summary": {
+        "total_attacks": 0,
+        "successful_attacks": 0,
+        "failed_attacks": 0,
+        "compromised_users": [],
+        "attack_types": {}
+      }
+    },
+    {
+      "simulation_id": "20250606_130004",
+      "timestamp": "2025-06-06T13:00:04.123646",
+      "target_users": [],
+      "attacks_executed": [],
+      "summary": {
+        "total_attacks": 0,
+        "successful_attacks": 0,
+        "failed_attacks": 0,
+        "compromised_users": [],
+        "attack_types": {}
+      }
+    },
+    {
+      "simulation_id": "20250606_165306",
+      "timestamp": "2025-06-06T16:53:06.905503",
+      "target_users": [
+        "user_001",
+        "user_002",
+        "user_003",
+        "user_004",
+        "user_005",
+        "user_006",
+        "user_007",
+        "user_008",
+        "user_009",
+        "user_010",
+        "user_011",
+        "user_012",
+        "user_013",
+        "user_014",
+        "user_015",
+        "user_016",
+        "user_017",
+        "user_018",
+        "user_019",
+        "user_020",
+        "user_021",
+        "user_022",
+        "user_023",
+        "user_024",
+        "user_025",
+        "user_026",
+        "user_027",
+        "user_028",
+        "user_029",
+        "user_030"
+      ],
+      "attacks_executed": [
+        {
+          "user": "user_001",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-06T16:53:06.906505"
+        },
+        {
+          "user": "user_001",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-06T16:53:06.906505"
+        },
+        {
+          "user": "user_002",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-06T16:53:06.906505"
+        },
+        {
+          "user": "user_002",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-06T16:53:06.907506"
+        },
+        {
+          "user": "user_003",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-06T16:53:06.907506"
+        },
+        {
+          "user": "user_003",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-06T16:53:06.907506"
+        },
+        {
+          "user": "user_004",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-06T16:53:06.908505"
+        },
+        {
+          "user": "user_004",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-06T16:53:06.908505"
+        },
+        {
+          "user": "user_005",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-06T16:53:06.908505"
+        },
+        {
+          "user": "user_005",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-06T16:53:06.908505"
+        },
+        {
+          "user": "user_006",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-06T16:53:06.909505"
+        },
+        {
+          "user": "user_006",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-06T16:53:06.909505"
+        },
+        {
+          "user": "user_007",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-06T16:53:06.909505"
+        },
+        {
+          "user": "user_007",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-06T16:53:06.909505"
+        },
+        {
+          "user": "user_008",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-06T16:53:06.909505"
+        },
+        {
+          "user": "user_008",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-06T16:53:06.910507"
+        },
+        {
+          "user": "user_009",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-06T16:53:06.910507"
+        },
+        {
+          "user": "user_009",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-06T16:53:06.910507"
+        },
+        {
+          "user": "user_010",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-06T16:53:06.910507"
+        },
+        {
+          "user": "user_010",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-06T16:53:06.910507"
+        },
+        {
+          "user": "user_011",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-06T16:53:06.911505"
+        },
+        {
+          "user": "user_011",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-06T16:53:06.911505"
+        },
+        {
+          "user": "user_012",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-06T16:53:06.911505"
+        },
+        {
+          "user": "user_012",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-06T16:53:06.912512"
+        },
+        {
+          "user": "user_013",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-06T16:53:06.912512"
+        },
+        {
+          "user": "user_013",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-06T16:53:06.912512"
+        },
+        {
+          "user": "user_014",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-06T16:53:06.913511"
+        },
+        {
+          "user": "user_014",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-06T16:53:06.913511"
+        },
+        {
+          "user": "user_015",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-06T16:53:06.914510"
+        },
+        {
+          "user": "user_015",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-06T16:53:06.914510"
+        },
+        {
+          "user": "user_016",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-06T16:53:06.914510"
+        },
+        {
+          "user": "user_016",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-06T16:53:06.914510"
+        },
+        {
+          "user": "user_017",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-06T16:53:06.914510"
+        },
+        {
+          "user": "user_017",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-06T16:53:06.915508"
+        },
+        {
+          "user": "user_018",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-06T16:53:06.915508"
+        },
+        {
+          "user": "user_018",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-06T16:53:06.916523"
+        },
+        {
+          "user": "user_019",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-06T16:53:06.916523"
+        },
+        {
+          "user": "user_019",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-06T16:53:06.916523"
+        },
+        {
+          "user": "user_020",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-06T16:53:06.917517"
+        },
+        {
+          "user": "user_020",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-06T16:53:06.917517"
+        },
+        {
+          "user": "user_021",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-06T16:53:06.917517"
+        },
+        {
+          "user": "user_021",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-06T16:53:06.918519"
+        },
+        {
+          "user": "user_022",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-06T16:53:06.918519"
+        },
+        {
+          "user": "user_022",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-06T16:53:06.918519"
+        },
+        {
+          "user": "user_023",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-06T16:53:06.918519"
+        },
+        {
+          "user": "user_023",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-06T16:53:06.919525"
+        },
+        {
+          "user": "user_024",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-06T16:53:06.919525"
+        },
+        {
+          "user": "user_024",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-06T16:53:06.920523"
+        },
+        {
+          "user": "user_025",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-06T16:53:06.920523"
+        },
+        {
+          "user": "user_025",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-06T16:53:06.920523"
+        },
+        {
+          "user": "user_026",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-06T16:53:06.921516"
+        },
+        {
+          "user": "user_026",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-06T16:53:06.921516"
+        },
+        {
+          "user": "user_027",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-06T16:53:06.921516"
+        },
+        {
+          "user": "user_027",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-06T16:53:06.922517"
+        },
+        {
+          "user": "user_028",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-06T16:53:06.922517"
+        },
+        {
+          "user": "user_028",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-06T16:53:06.922517"
+        },
+        {
+          "user": "user_029",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-06T16:53:06.922517"
+        },
+        {
+          "user": "user_029",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-06T16:53:06.923516"
+        },
+        {
+          "user": "user_030",
+          "attack": "Brute Force",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-06T16:53:06.923516"
+        },
+        {
+          "user": "user_030",
+          "attack": "Privilege Escalation",
+          "success": false,
+          "error": "'User' object has no attribute 'get'",
+          "timestamp": "2025-06-06T16:53:06.923516"
+        }
+      ],
+      "summary": {
+        "total_attacks": 0,
+        "successful_attacks": 0,
+        "failed_attacks": 0,
+        "compromised_users": [],
+        "attack_types": {}
+      }
+    }
+  ]
+}
