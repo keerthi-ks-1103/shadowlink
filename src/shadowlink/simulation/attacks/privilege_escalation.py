@@ -1,25 +1,20 @@
-
 import random
 from typing import Dict, List, Any, Tuple, Optional
 import sys
 import os
+
+# Add the base_attack module to path
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '../../../..')))
 
 from base_attack import (
     BaseAttack,
     AttackResult,
     calculate_attack_severity,
-    generate_remediation_suggestions
+    generate_remediation_suggestions,
+    get_user_attribute
 )
 
-def safe_get_attribute(obj, attribute, default=None):
-    """Safely get attribute from object or dictionary"""
-    if hasattr(obj, attribute):
-        return getattr(obj, attribute)
-    elif isinstance(obj, dict):
-        return obj.get(attribute, default)
-    else:
-        return default
+
 class PrivilegeEscalationAttack(BaseAttack):
     """
     Privilege Escalation Attack Simulation
@@ -71,26 +66,24 @@ class PrivilegeEscalationAttack(BaseAttack):
             "finance_manager": ["admin"],
             "system_admin": ["admin", "super_admin"]
         }
-        self.base_escalation_rate = 0.5  # Increased from lower values
-        self.role_confusion_base = 0.6   # High success for role confusion
-        self.cross_dept_base = 0.4       # Increased cross-department success
+        
+        # Success rate parameters
+        self.base_escalation_rate = 0.5
+        self.role_confusion_base = 0.6
+        self.cross_dept_base = 0.4
         self.temp_abuse_base = 0.45
     
     def can_attack(self, iam_env, target_user_id: str) -> bool:
         """
         Check if privilege escalation attack can be attempted
-        
-        Args:
-            iam_env: IAM environment instance
-            target_user_id: Target user ID
-            
-        Returns:
-            True if attack is possible, False otherwise
         """
         if not super().can_attack(iam_env, target_user_id):
             return False
         
         user = iam_env.get_user(target_user_id)
+        if not user:
+            return False
+            
         user_roles = iam_env.get_user_roles(target_user_id)
         
         # Need at least one role to escalate from
@@ -109,61 +102,52 @@ class PrivilegeEscalationAttack(BaseAttack):
         return False
     
     def execute(self, iam_env, target_user_id: str) -> AttackResult:
+        """Execute privilege escalation attack"""
         user = iam_env.get_user(target_user_id)
         if not user:
             print(f"[DEBUG] User {target_user_id} not found")
             return self._create_failed_result(target_user_id, "User not found")
 
-        can_escalate = self.can_attack(iam_env, target_user_id)
-        print(f"[DEBUG] can_attack for user {target_user_id}: {can_escalate}")
-        if not can_escalate:
+        # Check if attack is possible
+        if not self.can_attack(iam_env, target_user_id):
+            print(f"[DEBUG] No privilege escalation paths available for {target_user_id}")
             return self._create_failed_result(target_user_id, "No privilege escalation paths available")
 
         user_roles = iam_env.get_user_roles(target_user_id)
         current_permissions = iam_env.get_user_permissions(target_user_id)
 
+        # Analyze escalation opportunities
         escalation_strategy, target_role, success_probability = self._analyze_escalation_opportunities(
             iam_env, target_user_id, user_roles
-            )
+        )
 
-        print(f"[DEBUG] escalation_strategy: {escalation_strategy}, target_role: {target_role}, success_probability: {success_probability}")
+        print(f"[DEBUG] Strategy: {escalation_strategy}, Target: {target_role}, Probability: {success_probability}")
 
-    # For testing, temporarily force success_probability high to check flow:
-    # success_probability = 0.9  # uncomment to test positive success flow
-
+        # Simulate the attack attempt
         attack_details = self._simulate_escalation_attempt(
             escalation_strategy, user_roles, target_role, success_probability
-            )
+        )
 
+        # Determine if attack succeeds
         attack_success = random.random() < success_probability
-        print(f"[DEBUG] attack_success: {attack_success}")
+        print(f"[DEBUG] Attack success: {attack_success}")
 
         if attack_success:
             return self._create_successful_result(
                 iam_env, target_user_id, escalation_strategy, 
                 target_role, attack_details, current_permissions
-                )
+            )
         else:
             return self._create_failed_result(
                 target_user_id, 
                 f"Privilege escalation to {target_role} failed", 
                 attack_details
-                )
-
-    
+            )
     
     def _analyze_escalation_opportunities(self, iam_env, target_user_id: str, 
                                        user_roles: List[str]) -> Tuple[str, str, float]:
         """
         Analyze available escalation opportunities and choose the best strategy
-        
-        Args:
-            iam_env: IAM environment instance
-            target_user_id: Target user ID
-            user_roles: Current user roles
-            
-        Returns:
-            Tuple of (strategy, target_role, success_probability)
         """
         strategies = []
         
@@ -184,7 +168,8 @@ class PrivilegeEscalationAttack(BaseAttack):
         
         # Strategy 3: Cross-department escalation
         user = iam_env.get_user(target_user_id)
-        user_dept = getattr(user, "department", "")
+        user_dept = get_user_attribute(user, "department", "")
+        
         if user_dept:
             cross_dept_targets = self._find_cross_department_targets(iam_env, user_dept)
             for target_role in cross_dept_targets:
@@ -275,15 +260,6 @@ class PrivilegeEscalationAttack(BaseAttack):
                                    target_role: str, success_probability: float) -> Dict[str, Any]:
         """
         Simulate the escalation attempt details
-        
-        Args:
-            strategy: Escalation strategy used
-            current_roles: Current user roles
-            target_role: Target role for escalation
-            success_probability: Calculated success probability
-            
-        Returns:
-            Dictionary with attack simulation details
         """
         escalation_techniques = {
             "direct_escalation": [
@@ -472,7 +448,7 @@ if __name__ == "__main__":
         
         def get_user_roles(self, user_id):
             user = self.get_user(user_id)
-            return getattr(user,"roles", []) if user else []
+            return get_user_attribute(user, "roles", [])
         
         def get_user_permissions(self, user_id):
             roles = self.get_user_roles(user_id)
