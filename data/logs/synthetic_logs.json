@@ -1,0 +1,8002 @@
+[
+  {
+    "user_id": "U815",
+    "role": "developer",
+    "action": "access_file",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:26:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U107",
+    "role": "developer",
+    "action": "login",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:24:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U223",
+    "role": "hr_manager",
+    "action": "change_password",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:24:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U168",
+    "role": "admin",
+    "action": "delete_user",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:27:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U284",
+    "role": "admin",
+    "action": "access_file",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:25:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U564",
+    "role": "admin",
+    "action": "access_file",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:27:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U075",
+    "role": "admin",
+    "action": "escalate_privilege",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:24:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U471",
+    "role": "admin",
+    "action": "access_file",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:25:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U587",
+    "role": "admin",
+    "action": "change_password",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:23:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U241",
+    "role": "hr_manager",
+    "action": "access_file",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:23:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "M061",
+    "role": "developer",
+    "action": "escalate_privilege",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:27:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U300",
+    "role": "admin",
+    "action": "access_file",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:24:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U875",
+    "role": "admin",
+    "action": "access_file",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:27:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U594",
+    "role": "developer",
+    "action": "change_password",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:27:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U663",
+    "role": "developer",
+    "action": "access_file",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:25:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U624",
+    "role": "developer",
+    "action": "escalate_privilege",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:23:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U308",
+    "role": "admin",
+    "action": "change_password",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:22:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U614",
+    "role": "developer",
+    "action": "access_file",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:22:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U401",
+    "role": "developer",
+    "action": "login",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:22:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U691",
+    "role": "hr_manager",
+    "action": "login",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:22:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U706",
+    "role": "developer",
+    "action": "access_file",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:22:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U871",
+    "role": "developer",
+    "action": "change_password",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:27:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U728",
+    "role": "admin",
+    "action": "change_password",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:22:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U762",
+    "role": "developer",
+    "action": "delete_user",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:27:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U124",
+    "role": "developer",
+    "action": "access_file",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:25:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U029",
+    "role": "developer",
+    "action": "access_file",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:23:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U839",
+    "role": "admin",
+    "action": "access_file",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:27:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U365",
+    "role": "admin",
+    "action": "access_file",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:25:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U894",
+    "role": "developer",
+    "action": "change_password",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:25:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U781",
+    "role": "admin",
+    "action": "delete_user",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:27:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U250",
+    "role": "hr_manager",
+    "action": "login",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:25:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U502",
+    "role": "hr_manager",
+    "action": "change_password",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:25:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U852",
+    "role": "admin",
+    "action": "access_file",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:22:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U106",
+    "role": "admin",
+    "action": "change_password",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:22:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U767",
+    "role": "developer",
+    "action": "change_password",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:25:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U541",
+    "role": "admin",
+    "action": "change_password",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:27:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U492",
+    "role": "hr_manager",
+    "action": "login",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:22:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U335",
+    "role": "admin",
+    "action": "change_password",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:27:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U371",
+    "role": "admin",
+    "action": "change_password",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:26:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U222",
+    "role": "admin",
+    "action": "login",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:27:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "M083",
+    "role": "admin",
+    "action": "delete_user",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:22:22.244467",
+    "success": false
+  },
+  {
+    "user_id": "U267",
+    "role": "hr_manager",
+    "action": "login",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:23:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U369",
+    "role": "developer",
+    "action": "login",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:24:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "M021",
+    "role": "hr_manager",
+    "action": "escalate_privilege",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:27:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "M049",
+    "role": "hr_manager",
+    "action": "escalate_privilege",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:27:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U498",
+    "role": "admin",
+    "action": "change_password",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:24:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U342",
+    "role": "developer",
+    "action": "login",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:25:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U719",
+    "role": "admin",
+    "action": "change_password",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:22:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U070",
+    "role": "developer",
+    "action": "change_password",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:26:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "M032",
+    "role": "developer",
+    "action": "delete_user",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:25:22.244467",
+    "success": false
+  },
+  {
+    "user_id": "U656",
+    "role": "admin",
+    "action": "access_file",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:24:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U869",
+    "role": "developer",
+    "action": "change_password",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:22:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U246",
+    "role": "admin",
+    "action": "login",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:24:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U054",
+    "role": "hr_manager",
+    "action": "delete_user",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:26:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U128",
+    "role": "hr_manager",
+    "action": "change_password",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:26:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "M087",
+    "role": "admin",
+    "action": "escalate_privilege",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:22:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U081",
+    "role": "hr_manager",
+    "action": "login",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:24:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U274",
+    "role": "admin",
+    "action": "access_file",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:27:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U605",
+    "role": "hr_manager",
+    "action": "login",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:25:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U569",
+    "role": "hr_manager",
+    "action": "login",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:23:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U549",
+    "role": "hr_manager",
+    "action": "change_password",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:23:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U625",
+    "role": "admin",
+    "action": "delete_user",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:22:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U466",
+    "role": "admin",
+    "action": "change_password",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:24:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U688",
+    "role": "hr_manager",
+    "action": "access_file",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:26:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U823",
+    "role": "developer",
+    "action": "login",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:24:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U532",
+    "role": "admin",
+    "action": "change_password",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:23:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U163",
+    "role": "hr_manager",
+    "action": "change_password",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:26:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U868",
+    "role": "admin",
+    "action": "change_password",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:24:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U828",
+    "role": "hr_manager",
+    "action": "access_file",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:22:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U570",
+    "role": "hr_manager",
+    "action": "delete_user",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:23:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "M043",
+    "role": "hr_manager",
+    "action": "delete_user",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:26:22.244467",
+    "success": false
+  },
+  {
+    "user_id": "U542",
+    "role": "admin",
+    "action": "login",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:22:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U684",
+    "role": "developer",
+    "action": "access_file",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:25:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "M002",
+    "role": "developer",
+    "action": "escalate_privilege",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:23:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U015",
+    "role": "admin",
+    "action": "login",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:23:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U321",
+    "role": "admin",
+    "action": "login",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:27:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U302",
+    "role": "hr_manager",
+    "action": "change_password",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:22:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U047",
+    "role": "admin",
+    "action": "change_password",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:23:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U801",
+    "role": "admin",
+    "action": "delete_user",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:27:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U178",
+    "role": "hr_manager",
+    "action": "login",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:25:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U293",
+    "role": "developer",
+    "action": "login",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:22:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U314",
+    "role": "developer",
+    "action": "login",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:27:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U548",
+    "role": "admin",
+    "action": "access_file",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:24:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U144",
+    "role": "hr_manager",
+    "action": "access_file",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:26:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U578",
+    "role": "admin",
+    "action": "delete_user",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:23:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "M077",
+    "role": "developer",
+    "action": "delete_user",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:23:22.244467",
+    "success": false
+  },
+  {
+    "user_id": "U394",
+    "role": "admin",
+    "action": "change_password",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:26:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U540",
+    "role": "developer",
+    "action": "login",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:27:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U612",
+    "role": "admin",
+    "action": "access_file",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:24:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U007",
+    "role": "developer",
+    "action": "escalate_privilege",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:24:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U898",
+    "role": "developer",
+    "action": "login",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:24:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U043",
+    "role": "developer",
+    "action": "access_file",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:22:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "M005",
+    "role": "admin",
+    "action": "escalate_privilege",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:23:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U169",
+    "role": "hr_manager",
+    "action": "change_password",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:23:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U380",
+    "role": "hr_manager",
+    "action": "login",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:22:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U366",
+    "role": "admin",
+    "action": "access_file",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:25:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U576",
+    "role": "admin",
+    "action": "login",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:23:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U651",
+    "role": "developer",
+    "action": "change_password",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:26:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U432",
+    "role": "admin",
+    "action": "login",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:23:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U783",
+    "role": "admin",
+    "action": "change_password",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:24:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U019",
+    "role": "developer",
+    "action": "login",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:23:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U086",
+    "role": "hr_manager",
+    "action": "login",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:24:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U139",
+    "role": "developer",
+    "action": "login",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:27:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "M053",
+    "role": "developer",
+    "action": "escalate_privilege",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:25:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U306",
+    "role": "hr_manager",
+    "action": "escalate_privilege",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:27:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U256",
+    "role": "developer",
+    "action": "login",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:27:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U339",
+    "role": "hr_manager",
+    "action": "login",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:22:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U712",
+    "role": "hr_manager",
+    "action": "access_file",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:27:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U045",
+    "role": "developer",
+    "action": "login",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:22:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U889",
+    "role": "developer",
+    "action": "login",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:22:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U048",
+    "role": "admin",
+    "action": "login",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:24:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U515",
+    "role": "hr_manager",
+    "action": "login",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:26:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U360",
+    "role": "developer",
+    "action": "access_file",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:26:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U367",
+    "role": "hr_manager",
+    "action": "access_file",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:27:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "M020",
+    "role": "admin",
+    "action": "delete_user",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:27:22.244467",
+    "success": false
+  },
+  {
+    "user_id": "U854",
+    "role": "hr_manager",
+    "action": "login",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:27:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U479",
+    "role": "hr_manager",
+    "action": "change_password",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:26:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U697",
+    "role": "developer",
+    "action": "change_password",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:22:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U818",
+    "role": "admin",
+    "action": "login",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:27:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "M092",
+    "role": "developer",
+    "action": "escalate_privilege",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:26:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U166",
+    "role": "developer",
+    "action": "login",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:26:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U722",
+    "role": "hr_manager",
+    "action": "delete_user",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:26:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U277",
+    "role": "hr_manager",
+    "action": "change_password",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:27:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U454",
+    "role": "developer",
+    "action": "change_password",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:23:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "M059",
+    "role": "admin",
+    "action": "delete_user",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:23:22.244467",
+    "success": false
+  },
+  {
+    "user_id": "U265",
+    "role": "developer",
+    "action": "login",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:27:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U566",
+    "role": "hr_manager",
+    "action": "login",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:26:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U682",
+    "role": "hr_manager",
+    "action": "login",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:27:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U282",
+    "role": "developer",
+    "action": "login",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:25:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U089",
+    "role": "admin",
+    "action": "access_file",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:24:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U876",
+    "role": "admin",
+    "action": "login",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:23:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U812",
+    "role": "admin",
+    "action": "escalate_privilege",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:23:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U345",
+    "role": "admin",
+    "action": "escalate_privilege",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:23:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U093",
+    "role": "hr_manager",
+    "action": "login",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:27:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U752",
+    "role": "admin",
+    "action": "login",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:25:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "M036",
+    "role": "developer",
+    "action": "delete_user",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:24:22.244467",
+    "success": false
+  },
+  {
+    "user_id": "U404",
+    "role": "admin",
+    "action": "login",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:25:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U658",
+    "role": "developer",
+    "action": "login",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:23:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "M017",
+    "role": "admin",
+    "action": "escalate_privilege",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:26:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U055",
+    "role": "hr_manager",
+    "action": "login",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:26:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U273",
+    "role": "developer",
+    "action": "login",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:25:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U681",
+    "role": "developer",
+    "action": "login",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:26:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U645",
+    "role": "hr_manager",
+    "action": "delete_user",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:25:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U390",
+    "role": "hr_manager",
+    "action": "change_password",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:24:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U017",
+    "role": "developer",
+    "action": "login",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:22:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "M098",
+    "role": "developer",
+    "action": "escalate_privilege",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:25:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "M012",
+    "role": "admin",
+    "action": "delete_user",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:26:22.244467",
+    "success": false
+  },
+  {
+    "user_id": "U435",
+    "role": "hr_manager",
+    "action": "change_password",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:22:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U104",
+    "role": "hr_manager",
+    "action": "access_file",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:25:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U461",
+    "role": "hr_manager",
+    "action": "access_file",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:22:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U501",
+    "role": "admin",
+    "action": "login",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:22:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U478",
+    "role": "hr_manager",
+    "action": "login",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:23:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U555",
+    "role": "developer",
+    "action": "access_file",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:25:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U344",
+    "role": "hr_manager",
+    "action": "login",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:26:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U216",
+    "role": "hr_manager",
+    "action": "change_password",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:27:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U524",
+    "role": "hr_manager",
+    "action": "access_file",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:26:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U480",
+    "role": "developer",
+    "action": "escalate_privilege",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:23:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U400",
+    "role": "admin",
+    "action": "login",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:23:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U782",
+    "role": "developer",
+    "action": "access_file",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:24:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U304",
+    "role": "hr_manager",
+    "action": "login",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:27:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U529",
+    "role": "developer",
+    "action": "change_password",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:26:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U417",
+    "role": "hr_manager",
+    "action": "change_password",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:27:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U158",
+    "role": "developer",
+    "action": "login",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:23:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U084",
+    "role": "admin",
+    "action": "login",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:24:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U199",
+    "role": "admin",
+    "action": "access_file",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:24:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U500",
+    "role": "hr_manager",
+    "action": "change_password",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:26:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U254",
+    "role": "hr_manager",
+    "action": "login",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:24:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U627",
+    "role": "developer",
+    "action": "login",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:25:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U803",
+    "role": "admin",
+    "action": "change_password",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:23:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U482",
+    "role": "admin",
+    "action": "access_file",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:26:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U694",
+    "role": "developer",
+    "action": "change_password",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:26:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U051",
+    "role": "admin",
+    "action": "login",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:23:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "M024",
+    "role": "admin",
+    "action": "delete_user",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:27:22.244467",
+    "success": false
+  },
+  {
+    "user_id": "U334",
+    "role": "admin",
+    "action": "change_password",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:26:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U775",
+    "role": "developer",
+    "action": "access_file",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:24:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U606",
+    "role": "hr_manager",
+    "action": "change_password",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:26:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U831",
+    "role": "hr_manager",
+    "action": "access_file",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:27:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U445",
+    "role": "developer",
+    "action": "change_password",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:26:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U174",
+    "role": "hr_manager",
+    "action": "login",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:23:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U442",
+    "role": "developer",
+    "action": "escalate_privilege",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:22:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U539",
+    "role": "admin",
+    "action": "access_file",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:25:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "M004",
+    "role": "admin",
+    "action": "escalate_privilege",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:27:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U023",
+    "role": "admin",
+    "action": "login",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:27:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U186",
+    "role": "hr_manager",
+    "action": "change_password",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:25:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U779",
+    "role": "admin",
+    "action": "login",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:25:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "M080",
+    "role": "hr_manager",
+    "action": "escalate_privilege",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:23:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U236",
+    "role": "admin",
+    "action": "change_password",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:27:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U757",
+    "role": "developer",
+    "action": "access_file",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:25:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U251",
+    "role": "admin",
+    "action": "login",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:27:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U180",
+    "role": "developer",
+    "action": "login",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:24:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "M090",
+    "role": "developer",
+    "action": "escalate_privilege",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:22:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U704",
+    "role": "admin",
+    "action": "delete_user",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:26:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U607",
+    "role": "admin",
+    "action": "access_file",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:24:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U884",
+    "role": "developer",
+    "action": "login",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:22:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U298",
+    "role": "hr_manager",
+    "action": "access_file",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:24:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U038",
+    "role": "admin",
+    "action": "access_file",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:25:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U593",
+    "role": "developer",
+    "action": "login",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:26:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U194",
+    "role": "hr_manager",
+    "action": "login",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:22:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "M027",
+    "role": "admin",
+    "action": "delete_user",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:24:22.244467",
+    "success": false
+  },
+  {
+    "user_id": "U013",
+    "role": "admin",
+    "action": "access_file",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:26:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U448",
+    "role": "developer",
+    "action": "access_file",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:22:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U729",
+    "role": "admin",
+    "action": "delete_user",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:27:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "M068",
+    "role": "developer",
+    "action": "escalate_privilege",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:27:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U503",
+    "role": "admin",
+    "action": "change_password",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:22:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U032",
+    "role": "developer",
+    "action": "login",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:22:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U237",
+    "role": "hr_manager",
+    "action": "escalate_privilege",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:24:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U773",
+    "role": "hr_manager",
+    "action": "login",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:26:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U789",
+    "role": "admin",
+    "action": "login",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:23:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U622",
+    "role": "developer",
+    "action": "escalate_privilege",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:23:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U164",
+    "role": "admin",
+    "action": "login",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:27:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U090",
+    "role": "developer",
+    "action": "change_password",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:26:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U286",
+    "role": "hr_manager",
+    "action": "login",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:23:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U703",
+    "role": "hr_manager",
+    "action": "login",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:23:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U449",
+    "role": "admin",
+    "action": "access_file",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:26:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U392",
+    "role": "developer",
+    "action": "access_file",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:23:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U621",
+    "role": "admin",
+    "action": "login",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:23:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U527",
+    "role": "developer",
+    "action": "login",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:26:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U010",
+    "role": "developer",
+    "action": "login",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:25:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U057",
+    "role": "developer",
+    "action": "change_password",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:23:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U165",
+    "role": "admin",
+    "action": "login",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:22:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U846",
+    "role": "admin",
+    "action": "change_password",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:25:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U357",
+    "role": "developer",
+    "action": "escalate_privilege",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:23:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U233",
+    "role": "hr_manager",
+    "action": "delete_user",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:27:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U832",
+    "role": "admin",
+    "action": "login",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:22:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U680",
+    "role": "admin",
+    "action": "login",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:26:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U111",
+    "role": "admin",
+    "action": "delete_user",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:23:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U138",
+    "role": "admin",
+    "action": "login",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:27:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U474",
+    "role": "admin",
+    "action": "change_password",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:26:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U630",
+    "role": "hr_manager",
+    "action": "login",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:27:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U063",
+    "role": "hr_manager",
+    "action": "delete_user",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:27:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U280",
+    "role": "developer",
+    "action": "login",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:27:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "M035",
+    "role": "admin",
+    "action": "delete_user",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:24:22.244467",
+    "success": false
+  },
+  {
+    "user_id": "U742",
+    "role": "admin",
+    "action": "access_file",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:22:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U301",
+    "role": "admin",
+    "action": "change_password",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:24:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U745",
+    "role": "admin",
+    "action": "login",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:23:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U748",
+    "role": "admin",
+    "action": "change_password",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:22:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U238",
+    "role": "admin",
+    "action": "change_password",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:27:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U603",
+    "role": "hr_manager",
+    "action": "login",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:26:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U879",
+    "role": "hr_manager",
+    "action": "change_password",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:27:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U020",
+    "role": "admin",
+    "action": "access_file",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:27:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U147",
+    "role": "hr_manager",
+    "action": "change_password",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:22:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U655",
+    "role": "admin",
+    "action": "login",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:22:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U809",
+    "role": "hr_manager",
+    "action": "change_password",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:24:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U601",
+    "role": "admin",
+    "action": "login",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:26:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U687",
+    "role": "developer",
+    "action": "login",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:22:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U634",
+    "role": "admin",
+    "action": "change_password",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:22:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U409",
+    "role": "admin",
+    "action": "change_password",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:26:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U140",
+    "role": "hr_manager",
+    "action": "login",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:22:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U675",
+    "role": "admin",
+    "action": "change_password",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:24:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U044",
+    "role": "developer",
+    "action": "login",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:27:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U422",
+    "role": "developer",
+    "action": "login",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:23:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U843",
+    "role": "admin",
+    "action": "access_file",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:25:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U410",
+    "role": "admin",
+    "action": "login",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:25:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U005",
+    "role": "hr_manager",
+    "action": "access_file",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:23:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "M056",
+    "role": "developer",
+    "action": "delete_user",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:25:22.244467",
+    "success": false
+  },
+  {
+    "user_id": "U880",
+    "role": "admin",
+    "action": "login",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:24:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U826",
+    "role": "hr_manager",
+    "action": "delete_user",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:22:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U033",
+    "role": "developer",
+    "action": "change_password",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:24:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U115",
+    "role": "admin",
+    "action": "access_file",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:22:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U227",
+    "role": "hr_manager",
+    "action": "change_password",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:26:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U885",
+    "role": "hr_manager",
+    "action": "escalate_privilege",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:27:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U840",
+    "role": "hr_manager",
+    "action": "access_file",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:26:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "M039",
+    "role": "developer",
+    "action": "delete_user",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:27:22.244467",
+    "success": false
+  },
+  {
+    "user_id": "U333",
+    "role": "hr_manager",
+    "action": "change_password",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:25:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "M089",
+    "role": "admin",
+    "action": "escalate_privilege",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:23:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U718",
+    "role": "hr_manager",
+    "action": "access_file",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:22:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U149",
+    "role": "hr_manager",
+    "action": "access_file",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:26:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U604",
+    "role": "hr_manager",
+    "action": "change_password",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:22:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U699",
+    "role": "developer",
+    "action": "change_password",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:27:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "M060",
+    "role": "admin",
+    "action": "escalate_privilege",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:25:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U264",
+    "role": "hr_manager",
+    "action": "access_file",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:24:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U756",
+    "role": "hr_manager",
+    "action": "access_file",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:25:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "M069",
+    "role": "admin",
+    "action": "escalate_privilege",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:23:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U543",
+    "role": "developer",
+    "action": "access_file",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:26:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U072",
+    "role": "hr_manager",
+    "action": "delete_user",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:25:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U747",
+    "role": "developer",
+    "action": "change_password",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:26:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U646",
+    "role": "hr_manager",
+    "action": "login",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:22:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U615",
+    "role": "developer",
+    "action": "access_file",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:26:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U105",
+    "role": "hr_manager",
+    "action": "delete_user",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:25:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U571",
+    "role": "developer",
+    "action": "login",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:26:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U002",
+    "role": "developer",
+    "action": "login",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:23:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U424",
+    "role": "hr_manager",
+    "action": "login",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:23:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U486",
+    "role": "admin",
+    "action": "access_file",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:24:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U844",
+    "role": "developer",
+    "action": "access_file",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:25:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U121",
+    "role": "admin",
+    "action": "access_file",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:25:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "M046",
+    "role": "admin",
+    "action": "delete_user",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:27:22.244467",
+    "success": false
+  },
+  {
+    "user_id": "U481",
+    "role": "admin",
+    "action": "login",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:22:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U153",
+    "role": "admin",
+    "action": "access_file",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:23:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U557",
+    "role": "admin",
+    "action": "login",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:24:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U740",
+    "role": "hr_manager",
+    "action": "login",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:26:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U024",
+    "role": "admin",
+    "action": "access_file",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:22:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U260",
+    "role": "hr_manager",
+    "action": "change_password",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:25:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U585",
+    "role": "developer",
+    "action": "change_password",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:26:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "M011",
+    "role": "admin",
+    "action": "escalate_privilege",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:24:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U430",
+    "role": "hr_manager",
+    "action": "change_password",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:27:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U577",
+    "role": "admin",
+    "action": "login",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:27:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U516",
+    "role": "developer",
+    "action": "delete_user",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:25:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U833",
+    "role": "admin",
+    "action": "login",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:23:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U101",
+    "role": "hr_manager",
+    "action": "access_file",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:26:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U268",
+    "role": "developer",
+    "action": "login",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:24:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U229",
+    "role": "hr_manager",
+    "action": "login",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:25:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U414",
+    "role": "admin",
+    "action": "login",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:22:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U497",
+    "role": "hr_manager",
+    "action": "access_file",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:25:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "M057",
+    "role": "admin",
+    "action": "delete_user",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:26:22.244467",
+    "success": false
+  },
+  {
+    "user_id": "U370",
+    "role": "admin",
+    "action": "login",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:23:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U122",
+    "role": "developer",
+    "action": "access_file",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:23:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U827",
+    "role": "developer",
+    "action": "login",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:22:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U811",
+    "role": "developer",
+    "action": "login",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:23:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "M093",
+    "role": "developer",
+    "action": "escalate_privilege",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:27:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U654",
+    "role": "developer",
+    "action": "login",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:26:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U538",
+    "role": "hr_manager",
+    "action": "delete_user",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:25:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U525",
+    "role": "hr_manager",
+    "action": "change_password",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:24:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U190",
+    "role": "hr_manager",
+    "action": "access_file",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:22:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U780",
+    "role": "developer",
+    "action": "access_file",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:25:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "M033",
+    "role": "admin",
+    "action": "delete_user",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:23:22.244467",
+    "success": false
+  },
+  {
+    "user_id": "U215",
+    "role": "developer",
+    "action": "login",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:23:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U016",
+    "role": "admin",
+    "action": "login",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:27:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U218",
+    "role": "admin",
+    "action": "escalate_privilege",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:24:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U599",
+    "role": "admin",
+    "action": "change_password",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:22:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U317",
+    "role": "hr_manager",
+    "action": "login",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:23:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U069",
+    "role": "admin",
+    "action": "access_file",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:27:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "M058",
+    "role": "hr_manager",
+    "action": "delete_user",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:22:22.244467",
+    "success": false
+  },
+  {
+    "user_id": "M013",
+    "role": "developer",
+    "action": "delete_user",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:25:22.244467",
+    "success": false
+  },
+  {
+    "user_id": "U507",
+    "role": "developer",
+    "action": "login",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:22:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U117",
+    "role": "admin",
+    "action": "login",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:22:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U883",
+    "role": "hr_manager",
+    "action": "access_file",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:23:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "M044",
+    "role": "developer",
+    "action": "escalate_privilege",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:27:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U146",
+    "role": "hr_manager",
+    "action": "change_password",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:25:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U349",
+    "role": "developer",
+    "action": "login",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:24:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U407",
+    "role": "admin",
+    "action": "login",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:25:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U270",
+    "role": "developer",
+    "action": "change_password",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:27:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U402",
+    "role": "developer",
+    "action": "access_file",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:24:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U340",
+    "role": "admin",
+    "action": "access_file",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:23:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U065",
+    "role": "developer",
+    "action": "login",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:25:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U192",
+    "role": "admin",
+    "action": "login",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:26:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U810",
+    "role": "admin",
+    "action": "login",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:22:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U590",
+    "role": "developer",
+    "action": "access_file",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:23:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U591",
+    "role": "developer",
+    "action": "access_file",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:26:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "M085",
+    "role": "developer",
+    "action": "delete_user",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:22:22.244467",
+    "success": false
+  },
+  {
+    "user_id": "U288",
+    "role": "admin",
+    "action": "escalate_privilege",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:27:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U446",
+    "role": "hr_manager",
+    "action": "change_password",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:26:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U637",
+    "role": "admin",
+    "action": "change_password",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:27:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U580",
+    "role": "developer",
+    "action": "change_password",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:22:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U765",
+    "role": "admin",
+    "action": "access_file",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:25:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U127",
+    "role": "hr_manager",
+    "action": "escalate_privilege",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:22:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U610",
+    "role": "developer",
+    "action": "login",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:25:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U567",
+    "role": "admin",
+    "action": "change_password",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:22:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U472",
+    "role": "hr_manager",
+    "action": "escalate_privilege",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:22:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U155",
+    "role": "admin",
+    "action": "change_password",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:24:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U443",
+    "role": "hr_manager",
+    "action": "login",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:27:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U100",
+    "role": "developer",
+    "action": "login",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:27:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U343",
+    "role": "hr_manager",
+    "action": "login",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:25:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "M076",
+    "role": "developer",
+    "action": "delete_user",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:25:22.244467",
+    "success": false
+  },
+  {
+    "user_id": "U528",
+    "role": "developer",
+    "action": "login",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:24:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U103",
+    "role": "hr_manager",
+    "action": "change_password",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:25:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U188",
+    "role": "hr_manager",
+    "action": "login",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:26:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U460",
+    "role": "admin",
+    "action": "login",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:23:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U629",
+    "role": "hr_manager",
+    "action": "change_password",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:27:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U353",
+    "role": "developer",
+    "action": "login",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:25:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U381",
+    "role": "hr_manager",
+    "action": "login",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:23:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U820",
+    "role": "admin",
+    "action": "change_password",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:27:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U698",
+    "role": "hr_manager",
+    "action": "access_file",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:24:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "M025",
+    "role": "developer",
+    "action": "escalate_privilege",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:25:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U040",
+    "role": "admin",
+    "action": "login",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:23:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U886",
+    "role": "hr_manager",
+    "action": "login",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:24:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "M052",
+    "role": "admin",
+    "action": "escalate_privilege",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:26:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U389",
+    "role": "developer",
+    "action": "access_file",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:25:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "M042",
+    "role": "hr_manager",
+    "action": "escalate_privilege",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:24:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U860",
+    "role": "admin",
+    "action": "login",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:22:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U456",
+    "role": "developer",
+    "action": "change_password",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:26:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "M054",
+    "role": "hr_manager",
+    "action": "delete_user",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:24:22.244467",
+    "success": false
+  },
+  {
+    "user_id": "U427",
+    "role": "admin",
+    "action": "access_file",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:25:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U021",
+    "role": "hr_manager",
+    "action": "login",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:25:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U457",
+    "role": "hr_manager",
+    "action": "access_file",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:22:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U143",
+    "role": "hr_manager",
+    "action": "login",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:26:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U874",
+    "role": "developer",
+    "action": "access_file",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:25:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U290",
+    "role": "admin",
+    "action": "access_file",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:23:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U073",
+    "role": "admin",
+    "action": "login",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:22:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U212",
+    "role": "hr_manager",
+    "action": "login",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:24:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U037",
+    "role": "admin",
+    "action": "login",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:25:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U035",
+    "role": "admin",
+    "action": "login",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:25:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U088",
+    "role": "hr_manager",
+    "action": "access_file",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:27:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U226",
+    "role": "admin",
+    "action": "delete_user",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:23:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U611",
+    "role": "developer",
+    "action": "login",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:23:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U834",
+    "role": "hr_manager",
+    "action": "escalate_privilege",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:24:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U743",
+    "role": "admin",
+    "action": "login",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:24:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U470",
+    "role": "admin",
+    "action": "access_file",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:25:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U062",
+    "role": "admin",
+    "action": "access_file",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:26:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U350",
+    "role": "admin",
+    "action": "login",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:25:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U737",
+    "role": "hr_manager",
+    "action": "change_password",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:25:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "M097",
+    "role": "hr_manager",
+    "action": "escalate_privilege",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:25:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U230",
+    "role": "admin",
+    "action": "escalate_privilege",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:24:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U299",
+    "role": "admin",
+    "action": "access_file",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:27:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U197",
+    "role": "hr_manager",
+    "action": "access_file",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:24:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U341",
+    "role": "developer",
+    "action": "access_file",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:22:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U067",
+    "role": "hr_manager",
+    "action": "change_password",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:27:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "M050",
+    "role": "admin",
+    "action": "escalate_privilege",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:23:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U202",
+    "role": "admin",
+    "action": "login",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:23:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U039",
+    "role": "developer",
+    "action": "delete_user",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:26:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U659",
+    "role": "hr_manager",
+    "action": "login",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:24:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U428",
+    "role": "hr_manager",
+    "action": "delete_user",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:22:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U421",
+    "role": "developer",
+    "action": "access_file",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:23:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U714",
+    "role": "hr_manager",
+    "action": "delete_user",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:27:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U372",
+    "role": "admin",
+    "action": "change_password",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:27:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U751",
+    "role": "developer",
+    "action": "access_file",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:23:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U518",
+    "role": "hr_manager",
+    "action": "login",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:24:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U465",
+    "role": "developer",
+    "action": "login",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:26:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U006",
+    "role": "hr_manager",
+    "action": "change_password",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:27:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U095",
+    "role": "developer",
+    "action": "access_file",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:24:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U872",
+    "role": "developer",
+    "action": "login",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:27:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U856",
+    "role": "developer",
+    "action": "login",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:24:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U855",
+    "role": "admin",
+    "action": "login",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:24:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U434",
+    "role": "hr_manager",
+    "action": "login",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:26:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U776",
+    "role": "hr_manager",
+    "action": "change_password",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:27:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U419",
+    "role": "hr_manager",
+    "action": "login",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:26:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U650",
+    "role": "hr_manager",
+    "action": "access_file",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:23:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "M075",
+    "role": "admin",
+    "action": "delete_user",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:25:22.244467",
+    "success": false
+  },
+  {
+    "user_id": "U763",
+    "role": "developer",
+    "action": "access_file",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:23:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U794",
+    "role": "developer",
+    "action": "login",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:26:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U509",
+    "role": "hr_manager",
+    "action": "login",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:27:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U672",
+    "role": "admin",
+    "action": "delete_user",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:22:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U322",
+    "role": "hr_manager",
+    "action": "login",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:24:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U361",
+    "role": "developer",
+    "action": "login",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:24:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U291",
+    "role": "developer",
+    "action": "login",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:25:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U323",
+    "role": "admin",
+    "action": "escalate_privilege",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:26:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U378",
+    "role": "admin",
+    "action": "change_password",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:24:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U426",
+    "role": "hr_manager",
+    "action": "login",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:26:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U726",
+    "role": "developer",
+    "action": "login",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:23:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U882",
+    "role": "developer",
+    "action": "login",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:23:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "M071",
+    "role": "developer",
+    "action": "delete_user",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:26:22.244467",
+    "success": false
+  },
+  {
+    "user_id": "U320",
+    "role": "developer",
+    "action": "access_file",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:22:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U636",
+    "role": "hr_manager",
+    "action": "escalate_privilege",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:22:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U896",
+    "role": "admin",
+    "action": "change_password",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:27:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U355",
+    "role": "admin",
+    "action": "delete_user",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:26:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U259",
+    "role": "developer",
+    "action": "login",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:24:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U318",
+    "role": "developer",
+    "action": "access_file",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:26:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "M034",
+    "role": "hr_manager",
+    "action": "escalate_privilege",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:27:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U842",
+    "role": "developer",
+    "action": "access_file",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:24:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U235",
+    "role": "developer",
+    "action": "change_password",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:25:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U638",
+    "role": "admin",
+    "action": "access_file",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:27:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U385",
+    "role": "developer",
+    "action": "login",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:26:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "M063",
+    "role": "admin",
+    "action": "delete_user",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:24:22.244467",
+    "success": false
+  },
+  {
+    "user_id": "U112",
+    "role": "admin",
+    "action": "change_password",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:24:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U154",
+    "role": "admin",
+    "action": "delete_user",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:27:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U488",
+    "role": "developer",
+    "action": "login",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:24:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U326",
+    "role": "admin",
+    "action": "login",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:27:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U788",
+    "role": "hr_manager",
+    "action": "change_password",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:26:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U285",
+    "role": "admin",
+    "action": "login",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:27:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "M096",
+    "role": "hr_manager",
+    "action": "delete_user",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:22:22.244467",
+    "success": false
+  },
+  {
+    "user_id": "U866",
+    "role": "developer",
+    "action": "login",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:23:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U616",
+    "role": "admin",
+    "action": "access_file",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:22:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U172",
+    "role": "hr_manager",
+    "action": "login",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:26:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "M066",
+    "role": "developer",
+    "action": "escalate_privilege",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:22:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U375",
+    "role": "admin",
+    "action": "access_file",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:27:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U755",
+    "role": "admin",
+    "action": "escalate_privilege",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:27:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U648",
+    "role": "developer",
+    "action": "login",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:27:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U309",
+    "role": "developer",
+    "action": "escalate_privilege",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:24:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U892",
+    "role": "developer",
+    "action": "access_file",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:24:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U119",
+    "role": "developer",
+    "action": "change_password",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:23:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U664",
+    "role": "hr_manager",
+    "action": "login",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:23:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "M055",
+    "role": "admin",
+    "action": "escalate_privilege",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:23:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U677",
+    "role": "developer",
+    "action": "access_file",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:22:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U386",
+    "role": "developer",
+    "action": "change_password",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:25:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U561",
+    "role": "hr_manager",
+    "action": "change_password",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:23:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U666",
+    "role": "hr_manager",
+    "action": "change_password",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:27:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U373",
+    "role": "hr_manager",
+    "action": "login",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:26:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U792",
+    "role": "hr_manager",
+    "action": "change_password",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:27:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U623",
+    "role": "hr_manager",
+    "action": "login",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:23:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U319",
+    "role": "developer",
+    "action": "access_file",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:22:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "M029",
+    "role": "admin",
+    "action": "delete_user",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:26:22.244467",
+    "success": false
+  },
+  {
+    "user_id": "U778",
+    "role": "admin",
+    "action": "change_password",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:24:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U667",
+    "role": "admin",
+    "action": "access_file",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:25:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U807",
+    "role": "admin",
+    "action": "login",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:24:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U670",
+    "role": "admin",
+    "action": "access_file",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:27:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U683",
+    "role": "admin",
+    "action": "change_password",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:26:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U862",
+    "role": "developer",
+    "action": "change_password",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:24:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U554",
+    "role": "developer",
+    "action": "change_password",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:27:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U249",
+    "role": "hr_manager",
+    "action": "access_file",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:26:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U727",
+    "role": "hr_manager",
+    "action": "escalate_privilege",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:25:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "M078",
+    "role": "hr_manager",
+    "action": "delete_user",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:23:22.244467",
+    "success": false
+  },
+  {
+    "user_id": "U097",
+    "role": "admin",
+    "action": "login",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:22:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U888",
+    "role": "developer",
+    "action": "access_file",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:24:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U225",
+    "role": "developer",
+    "action": "login",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:27:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U271",
+    "role": "admin",
+    "action": "delete_user",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:25:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U203",
+    "role": "hr_manager",
+    "action": "login",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:22:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U358",
+    "role": "hr_manager",
+    "action": "login",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:23:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U640",
+    "role": "developer",
+    "action": "login",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:22:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U536",
+    "role": "admin",
+    "action": "delete_user",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:27:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U774",
+    "role": "developer",
+    "action": "access_file",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:26:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U439",
+    "role": "hr_manager",
+    "action": "access_file",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:26:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "M019",
+    "role": "hr_manager",
+    "action": "escalate_privilege",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:26:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U179",
+    "role": "admin",
+    "action": "change_password",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:25:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U890",
+    "role": "admin",
+    "action": "access_file",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:25:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U464",
+    "role": "developer",
+    "action": "login",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:27:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U026",
+    "role": "developer",
+    "action": "access_file",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:26:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U608",
+    "role": "developer",
+    "action": "login",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:27:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U148",
+    "role": "hr_manager",
+    "action": "access_file",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:22:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U362",
+    "role": "admin",
+    "action": "delete_user",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:22:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U547",
+    "role": "hr_manager",
+    "action": "access_file",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:22:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U705",
+    "role": "hr_manager",
+    "action": "login",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:25:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U161",
+    "role": "hr_manager",
+    "action": "access_file",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:23:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U296",
+    "role": "hr_manager",
+    "action": "access_file",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:23:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "M015",
+    "role": "developer",
+    "action": "escalate_privilege",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:26:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U455",
+    "role": "developer",
+    "action": "access_file",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:23:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U575",
+    "role": "developer",
+    "action": "access_file",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:23:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U560",
+    "role": "admin",
+    "action": "access_file",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:24:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U091",
+    "role": "hr_manager",
+    "action": "escalate_privilege",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:23:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U332",
+    "role": "hr_manager",
+    "action": "login",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:27:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U693",
+    "role": "hr_manager",
+    "action": "login",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:24:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U770",
+    "role": "developer",
+    "action": "change_password",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:23:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U278",
+    "role": "developer",
+    "action": "access_file",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:26:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "M014",
+    "role": "admin",
+    "action": "delete_user",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:24:22.244467",
+    "success": false
+  },
+  {
+    "user_id": "U191",
+    "role": "admin",
+    "action": "login",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:22:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U545",
+    "role": "admin",
+    "action": "delete_user",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:22:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U098",
+    "role": "admin",
+    "action": "login",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:23:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U210",
+    "role": "hr_manager",
+    "action": "change_password",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:22:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U734",
+    "role": "admin",
+    "action": "login",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:24:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U076",
+    "role": "admin",
+    "action": "escalate_privilege",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:26:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U477",
+    "role": "hr_manager",
+    "action": "login",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:27:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U628",
+    "role": "hr_manager",
+    "action": "delete_user",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:27:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U589",
+    "role": "developer",
+    "action": "access_file",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:26:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U837",
+    "role": "hr_manager",
+    "action": "change_password",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:22:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U418",
+    "role": "developer",
+    "action": "access_file",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:24:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U573",
+    "role": "admin",
+    "action": "login",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:26:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U364",
+    "role": "admin",
+    "action": "escalate_privilege",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:25:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "M026",
+    "role": "hr_manager",
+    "action": "delete_user",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:27:22.244467",
+    "success": false
+  },
+  {
+    "user_id": "M088",
+    "role": "developer",
+    "action": "delete_user",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:26:22.244467",
+    "success": false
+  },
+  {
+    "user_id": "U863",
+    "role": "hr_manager",
+    "action": "access_file",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:25:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U030",
+    "role": "admin",
+    "action": "access_file",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:22:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U730",
+    "role": "hr_manager",
+    "action": "login",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:24:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U001",
+    "role": "hr_manager",
+    "action": "change_password",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:24:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U359",
+    "role": "hr_manager",
+    "action": "delete_user",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:26:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U519",
+    "role": "developer",
+    "action": "delete_user",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:24:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U720",
+    "role": "hr_manager",
+    "action": "access_file",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:22:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U595",
+    "role": "developer",
+    "action": "login",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:26:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U387",
+    "role": "developer",
+    "action": "login",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:24:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U330",
+    "role": "developer",
+    "action": "access_file",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:26:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U108",
+    "role": "admin",
+    "action": "login",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:27:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U159",
+    "role": "developer",
+    "action": "login",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:25:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U324",
+    "role": "hr_manager",
+    "action": "access_file",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:25:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U853",
+    "role": "developer",
+    "action": "access_file",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:26:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U702",
+    "role": "admin",
+    "action": "login",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:22:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U692",
+    "role": "developer",
+    "action": "access_file",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:24:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U080",
+    "role": "admin",
+    "action": "change_password",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:25:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U157",
+    "role": "developer",
+    "action": "login",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:27:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U413",
+    "role": "admin",
+    "action": "login",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:23:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U346",
+    "role": "developer",
+    "action": "access_file",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:22:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U850",
+    "role": "developer",
+    "action": "login",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:24:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U565",
+    "role": "admin",
+    "action": "login",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:24:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U644",
+    "role": "developer",
+    "action": "login",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:23:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U315",
+    "role": "hr_manager",
+    "action": "login",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:26:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U813",
+    "role": "admin",
+    "action": "change_password",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:27:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U736",
+    "role": "hr_manager",
+    "action": "access_file",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:22:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U468",
+    "role": "hr_manager",
+    "action": "delete_user",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:23:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U724",
+    "role": "developer",
+    "action": "delete_user",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:24:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U707",
+    "role": "admin",
+    "action": "access_file",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:26:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U534",
+    "role": "admin",
+    "action": "login",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:25:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "M067",
+    "role": "admin",
+    "action": "escalate_privilege",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:25:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U469",
+    "role": "developer",
+    "action": "login",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:25:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U415",
+    "role": "hr_manager",
+    "action": "change_password",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:25:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U027",
+    "role": "developer",
+    "action": "access_file",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:26:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U899",
+    "role": "admin",
+    "action": "login",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:22:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "M023",
+    "role": "admin",
+    "action": "delete_user",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:27:22.244467",
+    "success": false
+  },
+  {
+    "user_id": "U125",
+    "role": "hr_manager",
+    "action": "delete_user",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:26:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U802",
+    "role": "developer",
+    "action": "access_file",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:27:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U162",
+    "role": "admin",
+    "action": "access_file",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:25:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "M040",
+    "role": "admin",
+    "action": "escalate_privilege",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:27:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U433",
+    "role": "developer",
+    "action": "escalate_privilege",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:24:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U352",
+    "role": "developer",
+    "action": "access_file",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:24:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U725",
+    "role": "hr_manager",
+    "action": "login",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:27:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U231",
+    "role": "hr_manager",
+    "action": "change_password",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:25:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U764",
+    "role": "admin",
+    "action": "delete_user",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:25:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U584",
+    "role": "admin",
+    "action": "access_file",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:27:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U136",
+    "role": "developer",
+    "action": "delete_user",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:24:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U473",
+    "role": "hr_manager",
+    "action": "change_password",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:25:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U881",
+    "role": "developer",
+    "action": "access_file",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:27:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U376",
+    "role": "admin",
+    "action": "login",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:25:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "M038",
+    "role": "admin",
+    "action": "delete_user",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:27:22.244467",
+    "success": false
+  },
+  {
+    "user_id": "U572",
+    "role": "hr_manager",
+    "action": "delete_user",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:22:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "M048",
+    "role": "hr_manager",
+    "action": "delete_user",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:25:22.244467",
+    "success": false
+  },
+  {
+    "user_id": "U760",
+    "role": "hr_manager",
+    "action": "access_file",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:24:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U074",
+    "role": "developer",
+    "action": "access_file",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:22:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U398",
+    "role": "hr_manager",
+    "action": "change_password",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:24:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U099",
+    "role": "hr_manager",
+    "action": "login",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:22:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U754",
+    "role": "developer",
+    "action": "access_file",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:25:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U102",
+    "role": "hr_manager",
+    "action": "access_file",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:26:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U586",
+    "role": "admin",
+    "action": "change_password",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:23:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U060",
+    "role": "developer",
+    "action": "change_password",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:26:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U000",
+    "role": "admin",
+    "action": "login",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:24:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U113",
+    "role": "developer",
+    "action": "login",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:23:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U508",
+    "role": "developer",
+    "action": "login",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:22:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U759",
+    "role": "developer",
+    "action": "access_file",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:24:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U068",
+    "role": "developer",
+    "action": "login",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:23:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U116",
+    "role": "hr_manager",
+    "action": "escalate_privilege",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:24:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U523",
+    "role": "developer",
+    "action": "login",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:23:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U878",
+    "role": "hr_manager",
+    "action": "change_password",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:24:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U356",
+    "role": "hr_manager",
+    "action": "change_password",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:24:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U825",
+    "role": "developer",
+    "action": "escalate_privilege",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:27:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "M064",
+    "role": "hr_manager",
+    "action": "escalate_privilege",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:27:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U700",
+    "role": "hr_manager",
+    "action": "login",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:22:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U245",
+    "role": "hr_manager",
+    "action": "login",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:27:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U733",
+    "role": "admin",
+    "action": "login",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:24:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U279",
+    "role": "developer",
+    "action": "login",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:22:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U201",
+    "role": "hr_manager",
+    "action": "delete_user",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:23:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U399",
+    "role": "admin",
+    "action": "change_password",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:27:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U412",
+    "role": "hr_manager",
+    "action": "delete_user",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:26:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U517",
+    "role": "developer",
+    "action": "login",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:26:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U071",
+    "role": "hr_manager",
+    "action": "change_password",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:24:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U441",
+    "role": "developer",
+    "action": "login",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:26:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U416",
+    "role": "hr_manager",
+    "action": "login",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:26:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U189",
+    "role": "developer",
+    "action": "login",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:26:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "M099",
+    "role": "admin",
+    "action": "delete_user",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:26:22.244467",
+    "success": false
+  },
+  {
+    "user_id": "U444",
+    "role": "developer",
+    "action": "login",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:24:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "M008",
+    "role": "developer",
+    "action": "delete_user",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:27:22.244467",
+    "success": false
+  },
+  {
+    "user_id": "U490",
+    "role": "hr_manager",
+    "action": "change_password",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:24:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U877",
+    "role": "developer",
+    "action": "access_file",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:24:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U864",
+    "role": "admin",
+    "action": "access_file",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:23:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U761",
+    "role": "admin",
+    "action": "login",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:22:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U520",
+    "role": "hr_manager",
+    "action": "access_file",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:27:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U785",
+    "role": "admin",
+    "action": "login",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:23:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U583",
+    "role": "developer",
+    "action": "delete_user",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:26:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U830",
+    "role": "admin",
+    "action": "access_file",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:26:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U558",
+    "role": "developer",
+    "action": "login",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:25:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U568",
+    "role": "admin",
+    "action": "change_password",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:22:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U012",
+    "role": "developer",
+    "action": "change_password",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:25:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U816",
+    "role": "admin",
+    "action": "change_password",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:22:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U393",
+    "role": "hr_manager",
+    "action": "access_file",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:23:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U206",
+    "role": "admin",
+    "action": "login",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:22:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U312",
+    "role": "developer",
+    "action": "access_file",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:24:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U316",
+    "role": "hr_manager",
+    "action": "login",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:23:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U660",
+    "role": "admin",
+    "action": "change_password",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:22:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "M031",
+    "role": "hr_manager",
+    "action": "escalate_privilege",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:27:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U652",
+    "role": "developer",
+    "action": "login",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:27:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U662",
+    "role": "admin",
+    "action": "login",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:27:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U744",
+    "role": "admin",
+    "action": "change_password",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:22:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U602",
+    "role": "admin",
+    "action": "access_file",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:25:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U064",
+    "role": "hr_manager",
+    "action": "access_file",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:26:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U696",
+    "role": "developer",
+    "action": "access_file",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:23:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U183",
+    "role": "hr_manager",
+    "action": "login",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:22:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U184",
+    "role": "developer",
+    "action": "access_file",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:22:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U137",
+    "role": "hr_manager",
+    "action": "change_password",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:23:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U796",
+    "role": "admin",
+    "action": "access_file",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:24:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U167",
+    "role": "admin",
+    "action": "access_file",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:27:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U635",
+    "role": "developer",
+    "action": "access_file",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:23:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U713",
+    "role": "developer",
+    "action": "login",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:24:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U563",
+    "role": "hr_manager",
+    "action": "login",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:25:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U193",
+    "role": "hr_manager",
+    "action": "access_file",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:26:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U689",
+    "role": "developer",
+    "action": "login",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:24:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U452",
+    "role": "admin",
+    "action": "login",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:27:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U639",
+    "role": "developer",
+    "action": "access_file",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:23:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U220",
+    "role": "developer",
+    "action": "login",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:23:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U596",
+    "role": "developer",
+    "action": "login",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:23:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U396",
+    "role": "developer",
+    "action": "login",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:25:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U085",
+    "role": "hr_manager",
+    "action": "access_file",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:23:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U397",
+    "role": "admin",
+    "action": "login",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:22:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U859",
+    "role": "developer",
+    "action": "access_file",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:25:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U354",
+    "role": "admin",
+    "action": "login",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:23:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U232",
+    "role": "developer",
+    "action": "login",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:27:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U838",
+    "role": "hr_manager",
+    "action": "delete_user",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:26:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U499",
+    "role": "admin",
+    "action": "change_password",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:25:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U814",
+    "role": "hr_manager",
+    "action": "delete_user",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:24:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U395",
+    "role": "admin",
+    "action": "access_file",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:23:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U669",
+    "role": "developer",
+    "action": "access_file",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:23:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U135",
+    "role": "hr_manager",
+    "action": "login",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:23:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U530",
+    "role": "hr_manager",
+    "action": "login",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:23:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U171",
+    "role": "developer",
+    "action": "change_password",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:22:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U806",
+    "role": "hr_manager",
+    "action": "login",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:24:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U533",
+    "role": "developer",
+    "action": "change_password",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:23:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U325",
+    "role": "hr_manager",
+    "action": "login",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:22:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "M028",
+    "role": "admin",
+    "action": "escalate_privilege",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:24:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U253",
+    "role": "admin",
+    "action": "login",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:24:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U269",
+    "role": "admin",
+    "action": "login",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:27:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U556",
+    "role": "developer",
+    "action": "escalate_privilege",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:25:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U495",
+    "role": "developer",
+    "action": "change_password",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:22:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U348",
+    "role": "developer",
+    "action": "change_password",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:22:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U641",
+    "role": "hr_manager",
+    "action": "login",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:26:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U790",
+    "role": "admin",
+    "action": "delete_user",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:23:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U897",
+    "role": "developer",
+    "action": "login",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:25:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U484",
+    "role": "developer",
+    "action": "login",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:26:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U506",
+    "role": "hr_manager",
+    "action": "login",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:22:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U749",
+    "role": "admin",
+    "action": "access_file",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:23:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U797",
+    "role": "developer",
+    "action": "login",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:23:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "M094",
+    "role": "developer",
+    "action": "escalate_privilege",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:25:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U496",
+    "role": "developer",
+    "action": "change_password",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:26:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U141",
+    "role": "admin",
+    "action": "change_password",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:22:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U311",
+    "role": "hr_manager",
+    "action": "change_password",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:22:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U701",
+    "role": "admin",
+    "action": "change_password",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:25:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U058",
+    "role": "hr_manager",
+    "action": "login",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:22:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U513",
+    "role": "developer",
+    "action": "login",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:22:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U673",
+    "role": "admin",
+    "action": "login",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:23:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U458",
+    "role": "hr_manager",
+    "action": "login",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:27:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U338",
+    "role": "admin",
+    "action": "escalate_privilege",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:23:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U600",
+    "role": "developer",
+    "action": "change_password",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:22:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U562",
+    "role": "developer",
+    "action": "access_file",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:27:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "M070",
+    "role": "developer",
+    "action": "delete_user",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:23:22.244467",
+    "success": false
+  },
+  {
+    "user_id": "U079",
+    "role": "hr_manager",
+    "action": "access_file",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:24:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U771",
+    "role": "admin",
+    "action": "change_password",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:27:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U003",
+    "role": "admin",
+    "action": "access_file",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:22:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U851",
+    "role": "admin",
+    "action": "login",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:24:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U244",
+    "role": "admin",
+    "action": "access_file",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:26:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U440",
+    "role": "hr_manager",
+    "action": "access_file",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:22:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U588",
+    "role": "developer",
+    "action": "change_password",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:27:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "M000",
+    "role": "developer",
+    "action": "escalate_privilege",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:24:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U351",
+    "role": "admin",
+    "action": "change_password",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:27:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U710",
+    "role": "hr_manager",
+    "action": "delete_user",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:23:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U009",
+    "role": "admin",
+    "action": "change_password",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:26:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U053",
+    "role": "developer",
+    "action": "access_file",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:23:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U050",
+    "role": "hr_manager",
+    "action": "delete_user",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:24:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U196",
+    "role": "hr_manager",
+    "action": "delete_user",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:22:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U822",
+    "role": "developer",
+    "action": "access_file",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:23:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U620",
+    "role": "admin",
+    "action": "change_password",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:22:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U531",
+    "role": "developer",
+    "action": "access_file",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:26:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U034",
+    "role": "admin",
+    "action": "login",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:22:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U579",
+    "role": "admin",
+    "action": "login",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:23:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U046",
+    "role": "hr_manager",
+    "action": "login",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:27:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U661",
+    "role": "hr_manager",
+    "action": "escalate_privilege",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:27:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U110",
+    "role": "admin",
+    "action": "access_file",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:26:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U423",
+    "role": "admin",
+    "action": "login",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:27:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U717",
+    "role": "developer",
+    "action": "login",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:27:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U133",
+    "role": "admin",
+    "action": "change_password",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:22:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "M009",
+    "role": "developer",
+    "action": "delete_user",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:27:22.244467",
+    "success": false
+  },
+  {
+    "user_id": "U848",
+    "role": "developer",
+    "action": "access_file",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:27:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U537",
+    "role": "admin",
+    "action": "delete_user",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:27:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "M086",
+    "role": "hr_manager",
+    "action": "escalate_privilege",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:27:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U510",
+    "role": "admin",
+    "action": "login",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:27:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "M065",
+    "role": "admin",
+    "action": "escalate_privilege",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:27:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U731",
+    "role": "developer",
+    "action": "access_file",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:26:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U377",
+    "role": "developer",
+    "action": "login",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:23:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U406",
+    "role": "hr_manager",
+    "action": "access_file",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:22:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U642",
+    "role": "admin",
+    "action": "login",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:26:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U131",
+    "role": "hr_manager",
+    "action": "change_password",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:27:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U200",
+    "role": "developer",
+    "action": "access_file",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:22:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U835",
+    "role": "hr_manager",
+    "action": "access_file",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:24:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U011",
+    "role": "developer",
+    "action": "change_password",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:27:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U668",
+    "role": "admin",
+    "action": "access_file",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:27:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U014",
+    "role": "admin",
+    "action": "login",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:22:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U836",
+    "role": "developer",
+    "action": "login",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:24:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U263",
+    "role": "developer",
+    "action": "escalate_privilege",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:24:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U129",
+    "role": "admin",
+    "action": "login",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:22:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U550",
+    "role": "hr_manager",
+    "action": "login",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:22:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U758",
+    "role": "admin",
+    "action": "login",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:27:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U800",
+    "role": "hr_manager",
+    "action": "escalate_privilege",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:23:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U711",
+    "role": "hr_manager",
+    "action": "change_password",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:26:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U266",
+    "role": "hr_manager",
+    "action": "access_file",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:27:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U721",
+    "role": "developer",
+    "action": "login",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:26:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U633",
+    "role": "admin",
+    "action": "change_password",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:25:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U626",
+    "role": "hr_manager",
+    "action": "escalate_privilege",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:27:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U808",
+    "role": "admin",
+    "action": "access_file",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:22:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U109",
+    "role": "developer",
+    "action": "login",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:23:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U211",
+    "role": "developer",
+    "action": "change_password",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:23:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U769",
+    "role": "developer",
+    "action": "access_file",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:26:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U083",
+    "role": "developer",
+    "action": "change_password",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:26:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U551",
+    "role": "hr_manager",
+    "action": "login",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:25:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U685",
+    "role": "hr_manager",
+    "action": "access_file",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:26:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U092",
+    "role": "admin",
+    "action": "access_file",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:27:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "M091",
+    "role": "developer",
+    "action": "delete_user",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:27:22.244467",
+    "success": false
+  },
+  {
+    "user_id": "U805",
+    "role": "hr_manager",
+    "action": "delete_user",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:27:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U493",
+    "role": "hr_manager",
+    "action": "login",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:24:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "M079",
+    "role": "developer",
+    "action": "delete_user",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:27:22.244467",
+    "success": false
+  },
+  {
+    "user_id": "U772",
+    "role": "admin",
+    "action": "login",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:22:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U347",
+    "role": "hr_manager",
+    "action": "change_password",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:24:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U865",
+    "role": "admin",
+    "action": "access_file",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:27:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "M001",
+    "role": "hr_manager",
+    "action": "escalate_privilege",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:27:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U559",
+    "role": "admin",
+    "action": "login",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:27:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U574",
+    "role": "developer",
+    "action": "login",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:24:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U310",
+    "role": "admin",
+    "action": "escalate_privilege",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:22:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "M095",
+    "role": "admin",
+    "action": "delete_user",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:22:22.244467",
+    "success": false
+  },
+  {
+    "user_id": "M037",
+    "role": "developer",
+    "action": "escalate_privilege",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:23:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U151",
+    "role": "hr_manager",
+    "action": "change_password",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:24:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U582",
+    "role": "developer",
+    "action": "access_file",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:23:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U674",
+    "role": "developer",
+    "action": "login",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:25:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U746",
+    "role": "developer",
+    "action": "escalate_privilege",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:25:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U491",
+    "role": "admin",
+    "action": "change_password",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:27:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U845",
+    "role": "developer",
+    "action": "login",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:24:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U824",
+    "role": "admin",
+    "action": "access_file",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:23:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U598",
+    "role": "developer",
+    "action": "access_file",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:25:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U382",
+    "role": "admin",
+    "action": "login",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:27:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U671",
+    "role": "hr_manager",
+    "action": "login",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:25:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U819",
+    "role": "admin",
+    "action": "access_file",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:26:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U036",
+    "role": "hr_manager",
+    "action": "login",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:27:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U292",
+    "role": "admin",
+    "action": "login",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:25:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "M081",
+    "role": "admin",
+    "action": "delete_user",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:22:22.244467",
+    "success": false
+  },
+  {
+    "user_id": "U248",
+    "role": "admin",
+    "action": "access_file",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:25:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U134",
+    "role": "hr_manager",
+    "action": "access_file",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:25:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U077",
+    "role": "hr_manager",
+    "action": "change_password",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:24:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U708",
+    "role": "admin",
+    "action": "change_password",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:23:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U061",
+    "role": "developer",
+    "action": "change_password",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:22:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U665",
+    "role": "admin",
+    "action": "login",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:24:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U224",
+    "role": "developer",
+    "action": "change_password",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:23:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U408",
+    "role": "admin",
+    "action": "delete_user",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:23:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U313",
+    "role": "hr_manager",
+    "action": "access_file",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:26:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U514",
+    "role": "hr_manager",
+    "action": "access_file",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:22:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U252",
+    "role": "admin",
+    "action": "change_password",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:22:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U374",
+    "role": "developer",
+    "action": "change_password",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:22:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U739",
+    "role": "admin",
+    "action": "access_file",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:27:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U042",
+    "role": "admin",
+    "action": "login",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:24:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U305",
+    "role": "hr_manager",
+    "action": "delete_user",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:25:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U690",
+    "role": "admin",
+    "action": "access_file",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:27:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U028",
+    "role": "developer",
+    "action": "login",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:22:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U368",
+    "role": "developer",
+    "action": "access_file",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:24:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U049",
+    "role": "developer",
+    "action": "delete_user",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:26:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U867",
+    "role": "hr_manager",
+    "action": "login",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:27:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "M030",
+    "role": "developer",
+    "action": "delete_user",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:25:22.244467",
+    "success": false
+  },
+  {
+    "user_id": "U403",
+    "role": "hr_manager",
+    "action": "access_file",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:23:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U181",
+    "role": "hr_manager",
+    "action": "login",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:23:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U056",
+    "role": "hr_manager",
+    "action": "login",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:27:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U303",
+    "role": "admin",
+    "action": "access_file",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:24:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U592",
+    "role": "developer",
+    "action": "delete_user",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:25:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U494",
+    "role": "hr_manager",
+    "action": "change_password",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:27:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U489",
+    "role": "admin",
+    "action": "login",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:22:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U209",
+    "role": "admin",
+    "action": "login",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:24:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "M010",
+    "role": "hr_manager",
+    "action": "delete_user",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:27:22.244467",
+    "success": false
+  },
+  {
+    "user_id": "U873",
+    "role": "hr_manager",
+    "action": "login",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:27:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U552",
+    "role": "admin",
+    "action": "login",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:22:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U295",
+    "role": "developer",
+    "action": "login",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:27:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U553",
+    "role": "admin",
+    "action": "change_password",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:23:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U544",
+    "role": "admin",
+    "action": "change_password",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:22:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U205",
+    "role": "hr_manager",
+    "action": "login",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:25:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U613",
+    "role": "admin",
+    "action": "login",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:26:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U535",
+    "role": "developer",
+    "action": "change_password",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:24:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U031",
+    "role": "developer",
+    "action": "login",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:26:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U041",
+    "role": "hr_manager",
+    "action": "login",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:22:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U895",
+    "role": "hr_manager",
+    "action": "access_file",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:24:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U804",
+    "role": "admin",
+    "action": "login",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:25:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U094",
+    "role": "developer",
+    "action": "change_password",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:24:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U156",
+    "role": "hr_manager",
+    "action": "delete_user",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:27:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U123",
+    "role": "hr_manager",
+    "action": "access_file",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:27:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "M022",
+    "role": "hr_manager",
+    "action": "escalate_privilege",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:26:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U214",
+    "role": "admin",
+    "action": "escalate_privilege",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:22:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U391",
+    "role": "admin",
+    "action": "change_password",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:27:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U695",
+    "role": "developer",
+    "action": "login",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:25:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U175",
+    "role": "hr_manager",
+    "action": "login",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:23:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U475",
+    "role": "developer",
+    "action": "login",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:26:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U363",
+    "role": "hr_manager",
+    "action": "change_password",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:23:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U383",
+    "role": "developer",
+    "action": "access_file",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:24:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U786",
+    "role": "admin",
+    "action": "access_file",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:23:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U242",
+    "role": "admin",
+    "action": "login",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:24:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U118",
+    "role": "developer",
+    "action": "login",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:25:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U526",
+    "role": "hr_manager",
+    "action": "change_password",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:23:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U512",
+    "role": "developer",
+    "action": "login",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:25:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "M084",
+    "role": "hr_manager",
+    "action": "delete_user",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:27:22.244467",
+    "success": false
+  },
+  {
+    "user_id": "U732",
+    "role": "admin",
+    "action": "access_file",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:22:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U258",
+    "role": "hr_manager",
+    "action": "login",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:22:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U522",
+    "role": "admin",
+    "action": "login",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:24:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U649",
+    "role": "developer",
+    "action": "login",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:25:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U750",
+    "role": "admin",
+    "action": "login",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:23:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U082",
+    "role": "developer",
+    "action": "login",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:27:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U821",
+    "role": "developer",
+    "action": "access_file",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:26:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U437",
+    "role": "admin",
+    "action": "escalate_privilege",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:27:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U618",
+    "role": "admin",
+    "action": "login",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:24:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U327",
+    "role": "admin",
+    "action": "access_file",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:26:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U170",
+    "role": "admin",
+    "action": "access_file",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:24:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "M016",
+    "role": "developer",
+    "action": "delete_user",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:24:22.244467",
+    "success": false
+  },
+  {
+    "user_id": "U145",
+    "role": "hr_manager",
+    "action": "delete_user",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:27:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U753",
+    "role": "hr_manager",
+    "action": "change_password",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:25:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U597",
+    "role": "admin",
+    "action": "change_password",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:23:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "M047",
+    "role": "hr_manager",
+    "action": "delete_user",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:26:22.244467",
+    "success": false
+  },
+  {
+    "user_id": "U173",
+    "role": "hr_manager",
+    "action": "change_password",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:27:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U429",
+    "role": "admin",
+    "action": "access_file",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:26:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U676",
+    "role": "admin",
+    "action": "login",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:27:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U795",
+    "role": "admin",
+    "action": "login",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:25:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U431",
+    "role": "hr_manager",
+    "action": "escalate_privilege",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:22:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U261",
+    "role": "hr_manager",
+    "action": "login",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:26:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U240",
+    "role": "admin",
+    "action": "change_password",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:25:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U829",
+    "role": "admin",
+    "action": "access_file",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:23:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U018",
+    "role": "admin",
+    "action": "login",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:26:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U262",
+    "role": "admin",
+    "action": "access_file",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:26:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U331",
+    "role": "admin",
+    "action": "login",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:22:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U766",
+    "role": "admin",
+    "action": "login",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:24:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U841",
+    "role": "developer",
+    "action": "login",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:22:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U487",
+    "role": "developer",
+    "action": "access_file",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:23:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "M003",
+    "role": "hr_manager",
+    "action": "escalate_privilege",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:24:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U891",
+    "role": "admin",
+    "action": "escalate_privilege",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:22:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U847",
+    "role": "admin",
+    "action": "login",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:27:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U738",
+    "role": "hr_manager",
+    "action": "delete_user",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:23:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U219",
+    "role": "hr_manager",
+    "action": "change_password",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:27:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U283",
+    "role": "hr_manager",
+    "action": "access_file",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:27:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U059",
+    "role": "developer",
+    "action": "access_file",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:25:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U447",
+    "role": "developer",
+    "action": "login",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:23:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U467",
+    "role": "hr_manager",
+    "action": "login",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:24:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "M072",
+    "role": "hr_manager",
+    "action": "delete_user",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:24:22.244467",
+    "success": false
+  },
+  {
+    "user_id": "U546",
+    "role": "hr_manager",
+    "action": "login",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:26:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U289",
+    "role": "hr_manager",
+    "action": "login",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:23:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U632",
+    "role": "hr_manager",
+    "action": "login",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:22:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "M074",
+    "role": "hr_manager",
+    "action": "escalate_privilege",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:27:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U379",
+    "role": "admin",
+    "action": "delete_user",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:25:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U462",
+    "role": "hr_manager",
+    "action": "login",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:25:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U653",
+    "role": "admin",
+    "action": "access_file",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:24:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U735",
+    "role": "admin",
+    "action": "access_file",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:25:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U678",
+    "role": "developer",
+    "action": "login",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:25:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U221",
+    "role": "developer",
+    "action": "access_file",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:23:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "M082",
+    "role": "hr_manager",
+    "action": "delete_user",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:27:22.244467",
+    "success": false
+  },
+  {
+    "user_id": "M018",
+    "role": "hr_manager",
+    "action": "delete_user",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:24:22.244467",
+    "success": false
+  },
+  {
+    "user_id": "U208",
+    "role": "admin",
+    "action": "delete_user",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:25:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U504",
+    "role": "hr_manager",
+    "action": "login",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:26:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U337",
+    "role": "developer",
+    "action": "escalate_privilege",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:23:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U476",
+    "role": "admin",
+    "action": "change_password",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:27:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U234",
+    "role": "hr_manager",
+    "action": "escalate_privilege",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:23:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U182",
+    "role": "admin",
+    "action": "escalate_privilege",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:22:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U887",
+    "role": "developer",
+    "action": "delete_user",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:25:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "M041",
+    "role": "admin",
+    "action": "delete_user",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:23:22.244467",
+    "success": false
+  },
+  {
+    "user_id": "U294",
+    "role": "developer",
+    "action": "access_file",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:22:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U505",
+    "role": "developer",
+    "action": "escalate_privilege",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:26:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U411",
+    "role": "admin",
+    "action": "delete_user",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:26:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U631",
+    "role": "hr_manager",
+    "action": "change_password",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:23:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U176",
+    "role": "hr_manager",
+    "action": "escalate_privilege",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:26:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U087",
+    "role": "admin",
+    "action": "login",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:24:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U511",
+    "role": "hr_manager",
+    "action": "access_file",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:24:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U213",
+    "role": "admin",
+    "action": "change_password",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:25:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U388",
+    "role": "developer",
+    "action": "login",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:23:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U453",
+    "role": "developer",
+    "action": "access_file",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:24:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U052",
+    "role": "developer",
+    "action": "delete_user",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:25:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U384",
+    "role": "hr_manager",
+    "action": "access_file",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:24:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U185",
+    "role": "developer",
+    "action": "access_file",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:23:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U617",
+    "role": "admin",
+    "action": "login",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:26:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U204",
+    "role": "developer",
+    "action": "login",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:23:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U893",
+    "role": "admin",
+    "action": "login",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:22:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U217",
+    "role": "developer",
+    "action": "delete_user",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:22:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "M007",
+    "role": "developer",
+    "action": "delete_user",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:27:22.244467",
+    "success": false
+  },
+  {
+    "user_id": "U521",
+    "role": "developer",
+    "action": "access_file",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:23:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U647",
+    "role": "admin",
+    "action": "login",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:27:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U870",
+    "role": "developer",
+    "action": "login",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:23:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U195",
+    "role": "hr_manager",
+    "action": "login",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:22:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U799",
+    "role": "developer",
+    "action": "login",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:27:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U307",
+    "role": "developer",
+    "action": "change_password",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:26:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U450",
+    "role": "developer",
+    "action": "login",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:25:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U255",
+    "role": "admin",
+    "action": "change_password",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:24:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U817",
+    "role": "developer",
+    "action": "change_password",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:26:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U793",
+    "role": "admin",
+    "action": "login",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:26:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U207",
+    "role": "admin",
+    "action": "access_file",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:23:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U160",
+    "role": "admin",
+    "action": "login",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:24:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U741",
+    "role": "hr_manager",
+    "action": "change_password",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:22:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "M045",
+    "role": "developer",
+    "action": "escalate_privilege",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:23:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U686",
+    "role": "admin",
+    "action": "login",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:22:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U243",
+    "role": "developer",
+    "action": "change_password",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:22:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U120",
+    "role": "hr_manager",
+    "action": "login",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:24:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U004",
+    "role": "admin",
+    "action": "access_file",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:22:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U679",
+    "role": "admin",
+    "action": "access_file",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:24:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U132",
+    "role": "hr_manager",
+    "action": "delete_user",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:26:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U787",
+    "role": "developer",
+    "action": "delete_user",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:25:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U709",
+    "role": "developer",
+    "action": "login",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:24:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U328",
+    "role": "hr_manager",
+    "action": "delete_user",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:22:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U287",
+    "role": "hr_manager",
+    "action": "access_file",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:22:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U187",
+    "role": "admin",
+    "action": "login",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:24:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U451",
+    "role": "hr_manager",
+    "action": "login",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:26:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U459",
+    "role": "admin",
+    "action": "delete_user",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:24:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U275",
+    "role": "hr_manager",
+    "action": "login",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:22:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U463",
+    "role": "admin",
+    "action": "change_password",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:26:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U405",
+    "role": "developer",
+    "action": "login",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:27:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U152",
+    "role": "hr_manager",
+    "action": "login",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:24:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U142",
+    "role": "hr_manager",
+    "action": "delete_user",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:22:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U297",
+    "role": "admin",
+    "action": "login",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:23:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U022",
+    "role": "developer",
+    "action": "access_file",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:23:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U777",
+    "role": "hr_manager",
+    "action": "login",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:22:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U784",
+    "role": "developer",
+    "action": "change_password",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:27:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U257",
+    "role": "hr_manager",
+    "action": "access_file",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:26:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U336",
+    "role": "developer",
+    "action": "access_file",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:25:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U272",
+    "role": "hr_manager",
+    "action": "access_file",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:24:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U619",
+    "role": "developer",
+    "action": "escalate_privilege",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:26:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U861",
+    "role": "developer",
+    "action": "access_file",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:22:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U078",
+    "role": "hr_manager",
+    "action": "login",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:25:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U096",
+    "role": "hr_manager",
+    "action": "access_file",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:22:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U114",
+    "role": "admin",
+    "action": "login",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:22:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U483",
+    "role": "admin",
+    "action": "access_file",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:24:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U485",
+    "role": "developer",
+    "action": "access_file",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:22:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U198",
+    "role": "developer",
+    "action": "login",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:23:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U281",
+    "role": "hr_manager",
+    "action": "access_file",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:26:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U581",
+    "role": "developer",
+    "action": "login",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:25:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U436",
+    "role": "hr_manager",
+    "action": "delete_user",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:26:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U066",
+    "role": "admin",
+    "action": "login",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:22:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U239",
+    "role": "developer",
+    "action": "access_file",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:27:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U857",
+    "role": "developer",
+    "action": "login",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:26:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U716",
+    "role": "admin",
+    "action": "access_file",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:27:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U228",
+    "role": "admin",
+    "action": "login",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:24:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U657",
+    "role": "developer",
+    "action": "change_password",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:24:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "M073",
+    "role": "admin",
+    "action": "delete_user",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:26:22.244467",
+    "success": false
+  },
+  {
+    "user_id": "U247",
+    "role": "admin",
+    "action": "login",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:23:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U420",
+    "role": "developer",
+    "action": "login",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:25:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U425",
+    "role": "developer",
+    "action": "login",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:25:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U798",
+    "role": "hr_manager",
+    "action": "login",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:26:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U609",
+    "role": "developer",
+    "action": "change_password",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:22:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U438",
+    "role": "developer",
+    "action": "login",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:27:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U025",
+    "role": "hr_manager",
+    "action": "delete_user",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:26:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U276",
+    "role": "developer",
+    "action": "change_password",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:22:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U008",
+    "role": "hr_manager",
+    "action": "login",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:27:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U858",
+    "role": "hr_manager",
+    "action": "login",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:23:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U126",
+    "role": "developer",
+    "action": "change_password",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:27:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U177",
+    "role": "admin",
+    "action": "login",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:23:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "M006",
+    "role": "developer",
+    "action": "escalate_privilege",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:22:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U849",
+    "role": "admin",
+    "action": "login",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:25:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U643",
+    "role": "developer",
+    "action": "change_password",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:26:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U768",
+    "role": "admin",
+    "action": "change_password",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:26:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U130",
+    "role": "hr_manager",
+    "action": "change_password",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:27:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U150",
+    "role": "admin",
+    "action": "login",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:23:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U329",
+    "role": "admin",
+    "action": "login",
+    "resource": "/dev/code1",
+    "timestamp": "2025-06-12T17:25:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U723",
+    "role": "hr_manager",
+    "action": "login",
+    "resource": "/hr/files",
+    "timestamp": "2025-06-12T17:24:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "M062",
+    "role": "hr_manager",
+    "action": "escalate_privilege",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:22:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "M051",
+    "role": "developer",
+    "action": "escalate_privilege",
+    "resource": "/admin/settings",
+    "timestamp": "2025-06-12T17:22:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U791",
+    "role": "admin",
+    "action": "access_file",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:22:22.244467",
+    "success": true
+  },
+  {
+    "user_id": "U715",
+    "role": "admin",
+    "action": "login",
+    "resource": "/finance/data1",
+    "timestamp": "2025-06-12T17:26:22.244467",
+    "success": true
+  }
+]

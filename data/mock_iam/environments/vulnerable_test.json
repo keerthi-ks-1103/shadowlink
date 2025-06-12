@@ -1,0 +1,106 @@
+{
+  "environment_name": "Test Vulnerable Environment",
+  "description": "Sample environment with vulnerable users for testing",
+  "users": [
+    {
+      "user_id": "admin001",
+      "username": "admin",
+      "email": "admin@company.com",
+      "full_name": "System Administrator",
+      "department": "IT",
+      "primary_role": "administrator",
+      "additional_roles": [],
+      "status": "active",
+      "created_date": "2024-01-01",
+      "last_login": "2024-06-01",
+      "last_login_days_ago": 9,
+      "mfa_enabled": false,
+      "password_last_changed": "2024-01-01",
+      "failed_login_attempts": 2,
+      "account_locked": false,
+      "vulnerability_notes": "Disabled MFA for troubleshooting"
+    },
+    {
+      "user_id": "user001",
+      "username": "jdoe",
+      "email": "john.doe@company.com",
+      "full_name": "John Doe",
+      "department": "Finance",
+      "primary_role": "finance_manager",
+      "additional_roles": [
+        "user"
+      ],
+      "status": "active",
+      "created_date": "2024-02-01",
+      "last_login": "2024-03-01",
+      "last_login_days_ago": 100,
+      "mfa_enabled": true,
+      "password_last_changed": "2024-02-01",
+      "failed_login_attempts": 0,
+      "account_locked": false
+    },
+    {
+      "user_id": "user002",
+      "username": "bsmith",
+      "email": "bob.smith@company.com",
+      "full_name": "Bob Smith",
+      "department": "HR",
+      "primary_role": "hr_manager",
+      "additional_roles": [
+        "finance_viewer"
+      ],
+      "status": "active",
+      "created_date": "2024-01-15",
+      "last_login": "2024-06-08",
+      "last_login_days_ago": 2,
+      "mfa_enabled": false,
+      "password_last_changed": "2024-01-15",
+      "failed_login_attempts": 5,
+      "account_locked": false
+    }
+  ],
+  "roles": {
+    "administrator": {
+      "permissions": [
+        "*",
+        "admin",
+        "user_management",
+        "system_config"
+      ],
+      "risk_level": "critical",
+      "description": "Full system administrator"
+    },
+    "finance_manager": {
+      "permissions": [
+        "finance_read",
+        "finance_write",
+        "reports"
+      ],
+      "risk_level": "high",
+      "description": "Finance department manager"
+    },
+    "hr_manager": {
+      "permissions": [
+        "hr_read",
+        "hr_write",
+        "employee_data"
+      ],
+      "risk_level": "high",
+      "description": "HR department manager"
+    },
+    "user": {
+      "permissions": [
+        "basic_read"
+      ],
+      "risk_level": "low",
+      "description": "Standard user"
+    },
+    "finance_viewer": {
+      "permissions": [
+        "finance_read"
+      ],
+      "risk_level": "medium",
+      "description": "Finance read-only access"
+    }
+  }
+}
