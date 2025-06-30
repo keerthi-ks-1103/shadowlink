@@ -524,6 +524,19 @@ class IAMEnvironmentManager:
     def get_all_permissions(self) -> Dict[str, Permission]:
         """Get all permissions in the system"""
         return self.permissions
+def load_iam_env(path="data/logs/simulation_log.json") -> "IAMEnvironmentManager":
+    manager = IAMEnvironmentManager()
+    if not manager.load_environment(path):
+        raise FileNotFoundError(f"❌ Could not load IAM environment from: {path}")
+    return manager
+
+def load_iam_env(path="data/mock_iam/environments/default.json"):
+    from shadowlink.core.iam.environment import IAMEnvironmentManager
+    manager = IAMEnvironmentManager()
+    if not manager.load_environment(path):
+        raise FileNotFoundError(f"❌ Could not load IAM environment from: {path}")
+    return manager
+
 
 
 # Usage example and testing

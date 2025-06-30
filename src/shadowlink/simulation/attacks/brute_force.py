@@ -4,7 +4,7 @@ import sys
 import os
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '../../../..')))
 
-from base_attack import (
+from shadowlink.simulation.attacks.base_attack import (
     BaseAttack,
     AttackResult,
     calculate_attack_severity,
